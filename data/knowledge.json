@@ -1,0 +1,1412 @@
+[
+ {
+  "id": "faq-pl-1",
+  "type": "faq",
+  "lang": "pl",
+  "title": "Czym jest EPR?",
+  "text": "EPR, czyli rozszerzona odpowiedzialność producenta, to zasada, zgodnie z którą firma wprowadzająca produkty na rynek współfinansuje zbiórkę i recykling odpadów, które z nich powstaną. W praktyce oznacza to rejestrację w danym kraju, regularne raportowanie ilości i opłaty, zwykle przez organizację odzysku.",
+  "url": "https://eprpilot.com/faq.html"
+ },
+ {
+  "id": "faq-pl-2",
+  "type": "faq",
+  "lang": "pl",
+  "title": "Jakie grupy produktów mogą podlegać EPR?",
+  "text": "Najczęściej opakowania, sprzęt elektryczny i elektroniczny (WEEE) oraz baterie. W zależności od kraju dochodzą też m.in. tekstylia, meble, opony, papier graficzny czy produkty jednorazowe z tworzyw.",
+  "url": "https://eprpilot.com/faq.html"
+ },
+ {
+  "id": "faq-pl-3",
+  "type": "faq",
+  "lang": "pl",
+  "title": "Czy EPR to jedna rejestracja dla całej UE?",
+  "text": "Nie. EPR działa na poziomie krajowym: każde państwo ma własny rejestr, numer, zasady i terminy. Sprzedając do kilku krajów, zwykle potrzebujesz osobnej rejestracji w każdym z nich i dla każdego strumienia produktów.",
+  "url": "https://eprpilot.com/faq.html"
+ },
+ {
+  "id": "faq-pl-4",
+  "type": "faq",
+  "lang": "pl",
+  "title": "Czy EPR dotyczy małej firmy?",
+  "text": "Co do zasady tak. Niektóre kraje mają progi ilościowe albo uproszczone procedury dla małych producentów, ale obowiązek rejestracji często obowiązuje już od pierwszej sztuki. Trzeba to sprawdzić osobno dla każdego rynku.",
+  "url": "https://eprpilot.com/faq.html"
+ },
+ {
+  "id": "faq-pl-5",
+  "type": "faq",
+  "lang": "pl",
+  "title": "Czym jest organizacja odzysku (PRO)?",
+  "text": "To organizacja, która w imieniu producentów przejmuje obowiązek zbiórki i recyklingu, np. Citeo we Francji czy systemy dualne w Niemczech. Producent zawiera z nią umowę, raportuje ilości i płaci opłaty zależne od materiału i masy.",
+  "url": "https://eprpilot.com/faq.html"
+ },
+ {
+  "id": "faq-pl-6",
+  "type": "faq",
+  "lang": "pl",
+  "title": "Sprzedaję za granicę. Gdzie sprawdzić swoje obowiązki?",
+  "text": "W każdym kraju, do którego trafiają Twoje produkty do konsumenta końcowego. Liczy się kraj dostawy, a nie siedziba firmy. Zacznij od listy rynków sprzedaży i strumieni produktów, a potem sprawdź przepisy każdego z nich.",
+  "url": "https://eprpilot.com/faq.html"
+ },
+ {
+  "id": "faq-pl-7",
+  "type": "faq",
+  "lang": "pl",
+  "title": "Czy sprzedaż przez marketplace zdejmuje ze mnie obowiązki?",
+  "text": "Zazwyczaj nie. W wielu krajach marketplace ma obowiązek weryfikować numer EPR sprzedawcy, ale rejestracja i raportowanie pozostają po Twojej stronie. Wyjątki istnieją, gdy platforma oferuje usługę rozliczenia w Twoim imieniu.",
+  "url": "https://eprpilot.com/faq.html"
+ },
+ {
+  "id": "faq-pl-8",
+  "type": "faq",
+  "lang": "pl",
+  "title": "Importuję towar. Czy mogę polegać na rejestracji dostawcy?",
+  "text": "Tylko jeśli dostawca rzeczywiście wprowadza produkt na rynek danego kraju i jest tam zarejestrowany jako producent. Gdy to Ty jako pierwszy wprowadzasz towar na rynek, obowiązek zwykle spoczywa na Tobie.",
+  "url": "https://eprpilot.com/faq.html"
+ },
+ {
+  "id": "faq-pl-9",
+  "type": "faq",
+  "lang": "pl",
+  "title": "Czy sprzedawcy marek własnych (private label) mają obowiązki opakowaniowe?",
+  "text": "Tak. Firma, pod której marką produkt trafia na rynek, jest najczęściej traktowana jak producent i odpowiada za rejestrację oraz raportowanie opakowań, nawet jeśli produkcję zleca innemu podmiotowi.",
+  "url": "https://eprpilot.com/faq.html"
+ },
+ {
+  "id": "faq-pl-10",
+  "type": "faq",
+  "lang": "pl",
+  "title": "Kiedy potrzebny jest upoważniony przedstawiciel?",
+  "text": "Gdy sprzedajesz do kraju, w którym nie masz siedziby, a jego przepisy tego wymagają. Dotyczy to np. WEEE i baterii w Niemczech czy we Francji. Przedstawiciel wypełnia obowiązki EPR w Twoim imieniu.",
+  "url": "https://eprpilot.com/faq.html"
+ },
+ {
+  "id": "faq-pl-11",
+  "type": "faq",
+  "lang": "pl",
+  "title": "Jakie dokumenty są zwykle potrzebne do rejestracji?",
+  "text": "Najczęściej dane rejestrowe firmy (KRS, CEIDG lub odpowiednik), numer VAT lub EORI, dane osoby kontaktowej, opis produktów i szacunkowe ilości opakowań, sprzętu lub baterii. Część krajów wymaga też pełnomocnictwa albo umowy z organizacją odzysku.",
+  "url": "https://eprpilot.com/faq.html"
+ },
+ {
+  "id": "faq-pl-12",
+  "type": "faq",
+  "lang": "pl",
+  "title": "Czym jest numer rejestrowy EPR?",
+  "text": "To identyfikator nadawany po rejestracji w krajowym rejestrze producentów. Podajesz go na fakturach, w dokumentach dla kontrahentów i na marketplace’ach jako dowód, że wypełniasz obowiązki w danym kraju.",
+  "url": "https://eprpilot.com/faq.html"
+ },
+ {
+  "id": "faq-pl-13",
+  "type": "faq",
+  "lang": "pl",
+  "title": "Czym jest BDO w Polsce?",
+  "text": "BDO to Baza danych o produktach i opakowaniach oraz o gospodarce odpadami. Rejestrują się w niej m.in. firmy wprowadzające opakowania, sprzęt i baterie na polski rynek. Numer BDO trzeba podawać na fakturach, a raz w roku złożyć sprawozdanie.",
+  "url": "https://eprpilot.com/faq.html"
+ },
+ {
+  "id": "faq-pl-14",
+  "type": "faq",
+  "lang": "pl",
+  "title": "Czym jest LUCID w Niemczech?",
+  "text": "LUCID to publiczny rejestr opakowań prowadzony przez Zentrale Stelle Verpackungsregister. Rejestracja jest obowiązkowa przed wprowadzeniem opakowań na niemiecki rynek, a ilości zgłaszane do LUCID muszą zgadzać się z tymi w systemie dualnym.",
+  "url": "https://eprpilot.com/faq.html"
+ },
+ {
+  "id": "faq-pl-15",
+  "type": "faq",
+  "lang": "pl",
+  "title": "Jak długo trwa rejestracja?",
+  "text": "Od kilku dni do kilku tygodni, zależnie od kraju i strumienia. Najdłużej trwa to tam, gdzie potrzebny jest upoważniony przedstawiciel lub umowa z organizacją odzysku. Warto zacząć przed pierwszą sprzedażą na danym rynku.",
+  "url": "https://eprpilot.com/faq.html"
+ },
+ {
+  "id": "faq-pl-16",
+  "type": "faq",
+  "lang": "pl",
+  "title": "Czy opakowania wysyłkowe liczą się tak samo jak opakowania produktu?",
+  "text": "Tak, w większości krajów. Karton wysyłkowy, wypełniacz, folia i taśma trafiają do konsumenta, więc trzeba je zgłosić i opłacić tak jak opakowanie samego produktu.",
+  "url": "https://eprpilot.com/faq.html"
+ },
+ {
+  "id": "faq-pl-17",
+  "type": "faq",
+  "lang": "pl",
+  "title": "Czym jest WEEE?",
+  "text": "WEEE to zużyty sprzęt elektryczny i elektroniczny. Producent i sprzedawca takiego sprzętu musi go zarejestrować, raportować ilości wprowadzone na rynek i finansować zbiórkę oraz przetwarzanie, zwykle przez organizację odzysku.",
+  "url": "https://eprpilot.com/faq.html"
+ },
+ {
+  "id": "faq-pl-18",
+  "type": "faq",
+  "lang": "pl",
+  "title": "Czy baterie w urządzeniach tworzą osobne obowiązki?",
+  "text": "Tak. Baterie i akumulatory, także wbudowane w urządzenia, to osobny strumień EPR. Sprzedając np. elektronikę z baterią, często masz trzy obowiązki naraz: dla sprzętu, baterii i opakowania.",
+  "url": "https://eprpilot.com/faq.html"
+ },
+ {
+  "id": "faq-pl-19",
+  "type": "faq",
+  "lang": "pl",
+  "title": "Czy ta sama firma potrzebuje kilku rejestracji?",
+  "text": "Często tak: osobnej dla każdego kraju i każdego strumienia. Firma sprzedająca elektronikę w pięciu krajach może potrzebować nawet kilkunastu rejestracji dla opakowań, WEEE i baterii.",
+  "url": "https://eprpilot.com/faq.html"
+ },
+ {
+  "id": "faq-pl-20",
+  "type": "faq",
+  "lang": "pl",
+  "title": "Czym jest PPWR?",
+  "text": "PPWR to unijne rozporządzenie w sprawie opakowań i odpadów opakowaniowych (UE) 2025/40. Ujednolica wymagania dla opakowań w całej UE: recyklowalność, minimalną zawartość recyklatu, ograniczenia substancji, oznakowanie i dokumentację zgodności.",
+  "url": "https://eprpilot.com/faq.html"
+ },
+ {
+  "id": "faq-pl-21",
+  "type": "faq",
+  "lang": "pl",
+  "title": "Czy PPWR zastępuje krajowe rejestracje EPR?",
+  "text": "Nie. PPWR wprowadza wspólne wymagania produktowe dla opakowań, ale rejestracja, raportowanie i opłaty EPR nadal odbywają się w każdym kraju osobno.",
+  "url": "https://eprpilot.com/faq.html"
+ },
+ {
+  "id": "faq-pl-22",
+  "type": "faq",
+  "lang": "pl",
+  "title": "Czym jest deklaracja zgodności UE dla opakowania?",
+  "text": "To dokument, w którym wytwórca opakowania oświadcza, że spełnia ono wymagania PPWR. Zawiera m.in. identyfikację opakowania, dane wytwórcy, listę spełnionych wymagań i podstawę prawną. Deklaracja opiera się na dokumentacji technicznej.",
+  "url": "https://eprpilot.com/faq.html"
+ },
+ {
+  "id": "faq-pl-23",
+  "type": "faq",
+  "lang": "pl",
+  "title": "Co powinno znaleźć się w dokumentacji technicznej opakowania?",
+  "text": "Opis opakowania i jego materiałów, wyniki oceny zgodności z wymaganiami PPWR, dane o substancjach, recyklowalności i zawartości recyklatu, a także dowody od dostawców. Dokumentację trzeba przechowywać przez określony czas i udostępnić na żądanie organu.",
+  "url": "https://eprpilot.com/faq.html"
+ },
+ {
+  "id": "faq-pl-24",
+  "type": "faq",
+  "lang": "pl",
+  "title": "Czy deklaracja dostawcy wystarczy przy marce własnej?",
+  "text": "Nie zawsze. Jeśli opakowanie trafia na rynek pod Twoją marką, możesz być traktowany jak wytwórca i odpowiadać za deklarację. Deklaracje dostawców są ważnym dowodem, ale to Ty musisz potwierdzić zgodność całego opakowania.",
+  "url": "https://eprpilot.com/faq.html"
+ },
+ {
+  "id": "faq-pl-25",
+  "type": "faq",
+  "lang": "pl",
+  "title": "Jakich danych potrzebuję do raportu EPR?",
+  "text": "Liczby sprzedanych sztuk w danym kraju i okresie oraz masy każdego materiału opakowania na sztukę. Dla WEEE i baterii także kategorii sprzętu, chemii baterii i wagi. Najlepiej trzymać te dane na poziomie SKU.",
+  "url": "https://eprpilot.com/faq.html"
+ },
+ {
+  "id": "faq-pl-26",
+  "type": "faq",
+  "lang": "pl",
+  "title": "Raportować w sztukach czy w kilogramach?",
+  "text": "Zależy od kraju i strumienia. Opakowania raportuje się zwykle w kilogramach według materiału, a baterie i sprzęt czasem w sztukach i kilogramach jednocześnie. Dlatego potrzebujesz obu wartości dla każdego produktu.",
+  "url": "https://eprpilot.com/faq.html"
+ },
+ {
+  "id": "faq-pl-27",
+  "type": "faq",
+  "lang": "pl",
+  "title": "Czy terminy raportowania są wszędzie takie same?",
+  "text": "Nie. Jedne kraje wymagają raportów miesięcznych, inne kwartalnych, półrocznych lub rocznych, a terminy różnią się także między strumieniami. Wspólny kalendarz dla wszystkich rynków bardzo ułatwia pracę.",
+  "url": "https://eprpilot.com/faq.html"
+ },
+ {
+  "id": "faq-pl-28",
+  "type": "faq",
+  "lang": "pl",
+  "title": "Jak uniknąć podwójnego liczenia?",
+  "text": "Ustal jasno, kto w łańcuchu dostaw jest producentem w danym kraju, i nie zgłaszaj opakowań, które już zgłosił dostawca lub platforma. Pomaga jedna baza SKU i jedno źródło danych sprzedażowych zamiast kilku arkuszy.",
+  "url": "https://eprpilot.com/faq.html"
+ },
+ {
+  "id": "faq-pl-29",
+  "type": "faq",
+  "lang": "pl",
+  "title": "Od czego zależą opłaty EPR?",
+  "text": "Głównie od masy i rodzaju materiału, kraju oraz stawek organizacji odzysku. Coraz częściej stawki są modulowane: opakowania trudne do recyklingu płacą więcej, a dobrze projektowane mniej.",
+  "url": "https://eprpilot.com/faq.html"
+ },
+ {
+  "id": "faq-pl-30",
+  "type": "faq",
+  "lang": "pl",
+  "title": "Czy rejestracja to to samo co opłata recyklingowa?",
+  "text": "Nie. Rejestracja to wpis do krajowego rejestru i numer producenta. Opłaty płacisz osobno, zwykle organizacji odzysku, na podstawie zgłoszonych ilości.",
+  "url": "https://eprpilot.com/faq.html"
+ },
+ {
+  "id": "faq-pl-31",
+  "type": "faq",
+  "lang": "pl",
+  "title": "Co grozi za niespełnienie obowiązku EPR?",
+  "text": "Kary finansowe, naliczenie opłat wstecz, a w niektórych krajach zakaz sprzedaży. Marketplace’y mogą też zablokować oferty do czasu podania numeru rejestrowego.",
+  "url": "https://eprpilot.com/faq.html"
+ },
+ {
+  "id": "faq-pl-32",
+  "type": "faq",
+  "lang": "pl",
+  "title": "Czy mogę poprawić raport EPR po złożeniu?",
+  "text": "Zwykle tak, ale procedura i terminy korekt różnią się między krajami. Lepiej poprawić błąd samemu, zanim wykaże go kontrola, i zachować dokumentację, z której wynika korekta.",
+  "url": "https://eprpilot.com/faq.html"
+ },
+ {
+  "id": "faq-pl-33",
+  "type": "faq",
+  "lang": "pl",
+  "title": "Czym mogę zarządzać w EPRPilot?",
+  "text": "Rejestracjami, danymi produktów i opakowań, raportami dla opakowań, WEEE i baterii, terminami w 29 krajach oraz deklaracjami w module PPWR. Wszystko w jednym panelu z archiwum dokumentów.",
+  "url": "https://eprpilot.com/faq.html"
+ },
+ {
+  "id": "faq-pl-34",
+  "type": "faq",
+  "lang": "pl",
+  "title": "Czy aplikacja sama zarejestruje moją firmę?",
+  "text": "Aplikacja przygotowuje dane i pokazuje, gdzie masz obowiązki. Samą rejestrację w krajowych rejestrach przeprowadzamy razem z zespołem Otoneso jako usługę, bo wymaga ona pełnomocnictw i kontaktu z urzędami.",
+  "url": "https://eprpilot.com/faq.html"
+ },
+ {
+  "id": "faq-pl-35",
+  "type": "faq",
+  "lang": "pl",
+  "title": "Ile kosztuje usługa rejestracji EPR?",
+  "text": "Zależy od liczby krajów, strumieni i tego, czy potrzebny jest upoważniony przedstawiciel. Najprościej umówić krótką rozmowę: przygotujemy wycenę dla Twoich rynków.",
+  "url": "https://eprpilot.com/faq.html"
+ },
+ {
+  "id": "faq-pl-36",
+  "type": "faq",
+  "lang": "pl",
+  "title": "Czy mogę porozmawiać z ekspertem przed wyborem usługi?",
+  "text": "Tak. Możesz umówić bezpłatną 15-minutową rozmowę albo wykupić godzinną konsultację EPR i PPWR, po której dostajesz pisemną listę działań.",
+  "url": "https://eprpilot.com/faq.html"
+ },
+ {
+  "id": "faq-pl-37",
+  "type": "faq",
+  "lang": "pl",
+  "title": "Czy Amazon może poprosić o mój numer EPR?",
+  "text": "Tak. Amazon i inne platformy w krajach takich jak Niemcy czy Francja muszą weryfikować numery EPR sprzedawców i proszą o nie w panelu sprzedawcy.",
+  "url": "https://eprpilot.com/faq.html"
+ },
+ {
+  "id": "faq-pl-38",
+  "type": "faq",
+  "lang": "pl",
+  "title": "Czy potrzebuję EPR przy sprzedaży przez własny sklep?",
+  "text": "Tak. Obowiązki zależą od tego, do jakiego kraju trafia towar, a nie od kanału sprzedaży. Sklep internetowy wysyłający paczki za granicę podlega tym samym zasadom co sprzedaż przez marketplace.",
+  "url": "https://eprpilot.com/faq.html"
+ },
+ {
+  "id": "faq-pl-39",
+  "type": "faq",
+  "lang": "pl",
+  "title": "Kto raportuje opakowania dodane przez operatora fulfillmentu?",
+  "text": "Zwykle sprzedawca, bo to w jego imieniu towar trafia do klienta. Dotyczy to także kartonów i wypełniaczy dodanych przez magazyn. Warto mieć od operatora dane o zużytych opakowaniach.",
+  "url": "https://eprpilot.com/faq.html"
+ },
+ {
+  "id": "faq-pl-40",
+  "type": "faq",
+  "lang": "pl",
+  "title": "Czy marketplace może zablokować oferty z powodu braku danych EPR?",
+  "text": "Tak. Gdy brakuje ważnego numeru rejestrowego dla danego kraju i kategorii, platforma może wstrzymać lub usunąć oferty do czasu jego uzupełnienia.",
+  "url": "https://eprpilot.com/faq.html"
+ },
+ {
+  "id": "faq-pl-41",
+  "type": "faq",
+  "lang": "pl",
+  "title": "Jak wygląda EPR dla opakowań w Niemczech?",
+  "text": "Potrzebujesz rejestracji w LUCID i umowy z systemem dualnym dla opakowań trafiających do gospodarstw domowych. Ilości zgłaszasz w obu miejscach, a przy większych ilościach składasz też roczną deklarację kompletności.",
+  "url": "https://eprpilot.com/faq.html"
+ },
+ {
+  "id": "faq-pl-42",
+  "type": "faq",
+  "lang": "pl",
+  "title": "Na co zwrócić uwagę przy sprzedaży we Francji?",
+  "text": "Francja ma osobne systemy dla wielu strumieni i nadaje numer UIN. Wymaga też oznakowania Triman z informacją o sortowaniu, a platformy weryfikują numery sprzedawców.",
+  "url": "https://eprpilot.com/faq.html"
+ },
+ {
+  "id": "faq-pl-43",
+  "type": "faq",
+  "lang": "pl",
+  "title": "Na co zwrócić uwagę przy sprzedaży w Polsce?",
+  "text": "Na wpis do BDO, umowę z organizacją odzysku lub samodzielne wypełnianie obowiązków, numer BDO na fakturach i roczne sprawozdanie. Do tego dochodzą opłaty produktowe i system kaucyjny dla części opakowań.",
+  "url": "https://eprpilot.com/faq.html"
+ },
+ {
+  "id": "faq-pl-44",
+  "type": "faq",
+  "lang": "pl",
+  "title": "Czy rejestracje w UE obejmują Wielką Brytanię i Turcję?",
+  "text": "Nie. Wielka Brytania i Turcja mają własne systemy EPR i rejestracje, niezależne od krajów UE. EPRPilot obsługuje je obok 27 państw UE.",
+  "url": "https://eprpilot.com/faq.html"
+ },
+ {
+  "id": "faq-pl-45",
+  "type": "faq",
+  "lang": "pl",
+  "title": "Dlaczego potrzebuję wagi każdego materiału opakowania?",
+  "text": "Bo opłaty i raporty liczone są osobno dla każdego materiału: papieru, tworzyw, szkła, metalu czy drewna. Bez wagi na poziomie materiału nie da się poprawnie wyliczyć zobowiązań.",
+  "url": "https://eprpilot.com/faq.html"
+ },
+ {
+  "id": "faq-pl-46",
+  "type": "faq",
+  "lang": "pl",
+  "title": "Jak klasyfikować opakowania wielomateriałowe?",
+  "text": "Zależy od kraju: jedne wymagają rozbicia na poszczególne materiały, inne mają osobną kategorię opakowań kompozytowych. Zawsze warto znać masę każdego składnika.",
+  "url": "https://eprpilot.com/faq.html"
+ },
+ {
+  "id": "faq-pl-47",
+  "type": "faq",
+  "lang": "pl",
+  "title": "Czy symbole recyklingu są obowiązkowe na każdym opakowaniu?",
+  "text": "Nie wszędzie, ale wymagania rosną. Francja i Włochy mają już obowiązkowe oznakowanie, a PPWR wprowadzi zharmonizowane etykiety w całej UE.",
+  "url": "https://eprpilot.com/faq.html"
+ },
+ {
+  "id": "faq-pl-48",
+  "type": "faq",
+  "lang": "pl",
+  "title": "Czy zawartość recyklatu zwalnia z opłat EPR?",
+  "text": "Nie zwalnia, ale w niektórych krajach obniża stawkę dzięki modulacji opłat. PPWR wprowadza też minimalne poziomy recyklatu dla opakowań z tworzyw.",
+  "url": "https://eprpilot.com/faq.html"
+ },
+ {
+  "id": "faq-pl-49",
+  "type": "faq",
+  "lang": "pl",
+  "title": "Co zrobić przed wejściem na nowy rynek UE?",
+  "text": "Sprawdź, jakie strumienie EPR Cię dotyczą, zarejestruj się przed pierwszą sprzedażą, podpisz umowę z organizacją odzysku i ustal, kto i kiedy raportuje. Przygotuj dane o masach opakowań dla wszystkich SKU.",
+  "url": "https://eprpilot.com/faq.html"
+ },
+ {
+  "id": "faq-pl-50",
+  "type": "faq",
+  "lang": "pl",
+  "title": "Kto w firmie powinien odpowiadać za dane EPR?",
+  "text": "Jedna osoba lub zespół, który ma dostęp do danych produktowych i sprzedażowych, najczęściej z operacji, compliance albo finansów. Ważne, żeby odpowiedzialność była jasno przypisana.",
+  "url": "https://eprpilot.com/faq.html"
+ },
+ {
+  "id": "faq-pl-51",
+  "type": "faq",
+  "lang": "pl",
+  "title": "Jak często przeglądać dane o opakowaniach?",
+  "text": "Przy każdej zmianie opakowania lub dostawcy i co najmniej raz w roku. Nieaktualne masy to najczęstsza przyczyna błędnych raportów.",
+  "url": "https://eprpilot.com/faq.html"
+ },
+ {
+  "id": "faq-pl-52",
+  "type": "faq",
+  "lang": "pl",
+  "title": "Czy da się prowadzić EPR w arkuszu?",
+  "text": "Przy jednym kraju i kilku produktach tak. Przy kilku rynkach i strumieniach arkusz szybko staje się źródłem błędów, pominiętych terminów i braku śladu audytowego.",
+  "url": "https://eprpilot.com/faq.html"
+ },
+ {
+  "id": "faq-en-1",
+  "type": "faq",
+  "lang": "en",
+  "title": "What is EPR?",
+  "text": "EPR, or extended producer responsibility, means that a company placing products on the market helps pay for collecting and recycling the waste they become. In practice that means registering in a country, reporting quantities regularly and paying fees, usually through a compliance scheme.",
+  "url": "https://eprpilot.com/en/faq.html"
+ },
+ {
+  "id": "faq-en-2",
+  "type": "faq",
+  "lang": "en",
+  "title": "Which product groups can be subject to EPR?",
+  "text": "Most often packaging, electrical and electronic equipment (WEEE) and batteries. Depending on the country, textiles, furniture, tyres, graphic paper or single-use plastic products can be added.",
+  "url": "https://eprpilot.com/en/faq.html"
+ },
+ {
+  "id": "faq-en-3",
+  "type": "faq",
+  "lang": "en",
+  "title": "Is EPR one registration for the whole EU?",
+  "text": "No. EPR works at national level: each country has its own register, number, rules and deadlines. If you sell to several countries, you usually need a separate registration in each one and for each product stream.",
+  "url": "https://eprpilot.com/en/faq.html"
+ },
+ {
+  "id": "faq-en-4",
+  "type": "faq",
+  "lang": "en",
+  "title": "Does EPR apply to a small business?",
+  "text": "As a rule, yes. Some countries have quantity thresholds or simplified procedures for small producers, but registration often applies from the very first unit. Check each market separately.",
+  "url": "https://eprpilot.com/en/faq.html"
+ },
+ {
+  "id": "faq-en-5",
+  "type": "faq",
+  "lang": "en",
+  "title": "What is a producer responsibility organisation?",
+  "text": "An organisation that takes over collection and recycling obligations on behalf of producers, such as Citeo in France or the dual systems in Germany. The producer signs a contract, reports quantities and pays fees based on material and weight.",
+  "url": "https://eprpilot.com/en/faq.html"
+ },
+ {
+  "id": "faq-en-6",
+  "type": "faq",
+  "lang": "en",
+  "title": "I sell across borders. Where should I check my obligations?",
+  "text": "In every country where your products reach the end customer. What counts is the country of delivery, not where your company is based. Start with a list of your sales markets and product streams, then check the rules for each one.",
+  "url": "https://eprpilot.com/en/faq.html"
+ },
+ {
+  "id": "faq-en-7",
+  "type": "faq",
+  "lang": "en",
+  "title": "Does selling through a marketplace remove my obligations?",
+  "text": "Usually not. In many countries the marketplace must check the seller's EPR number, but registration and reporting stay with you. Exceptions exist where the platform offers to settle obligations on your behalf.",
+  "url": "https://eprpilot.com/en/faq.html"
+ },
+ {
+  "id": "faq-en-8",
+  "type": "faq",
+  "lang": "en",
+  "title": "I import goods. Can I rely on my supplier's registration?",
+  "text": "Only if the supplier actually places the product on that country's market and is registered there as the producer. If you are the first to place the goods on the market, the obligation usually falls on you.",
+  "url": "https://eprpilot.com/en/faq.html"
+ },
+ {
+  "id": "faq-en-9",
+  "type": "faq",
+  "lang": "en",
+  "title": "Do private-label sellers have packaging duties?",
+  "text": "Yes. The company whose brand the product is sold under is usually treated as the producer and is responsible for registering and reporting the packaging, even if manufacturing is outsourced.",
+  "url": "https://eprpilot.com/en/faq.html"
+ },
+ {
+  "id": "faq-en-10",
+  "type": "faq",
+  "lang": "en",
+  "title": "When might I need an authorised representative?",
+  "text": "When you sell into a country where you have no establishment and its rules require one. This applies, for example, to WEEE and batteries in Germany or France. The representative fulfils your EPR obligations on your behalf.",
+  "url": "https://eprpilot.com/en/faq.html"
+ },
+ {
+  "id": "faq-en-11",
+  "type": "faq",
+  "lang": "en",
+  "title": "What documents are usually needed for registration?",
+  "text": "Usually your company registration details, VAT or EORI number, a contact person, a description of your products and estimated quantities of packaging, equipment or batteries. Some countries also require a power of attorney or a contract with a compliance scheme.",
+  "url": "https://eprpilot.com/en/faq.html"
+ },
+ {
+  "id": "faq-en-12",
+  "type": "faq",
+  "lang": "en",
+  "title": "What is an EPR registration number?",
+  "text": "An identifier issued after you register in a national producer register. You show it on invoices, in documents for business partners and on marketplaces as proof that you meet your obligations in that country.",
+  "url": "https://eprpilot.com/en/faq.html"
+ },
+ {
+  "id": "faq-en-13",
+  "type": "faq",
+  "lang": "en",
+  "title": "What is BDO in Poland?",
+  "text": "BDO is the Polish database on products, packaging and waste management. Companies placing packaging, equipment and batteries on the Polish market register there. The BDO number must appear on invoices, and an annual report is due once a year.",
+  "url": "https://eprpilot.com/en/faq.html"
+ },
+ {
+  "id": "faq-en-14",
+  "type": "faq",
+  "lang": "en",
+  "title": "What is LUCID in Germany?",
+  "text": "LUCID is the public packaging register run by the Zentrale Stelle Verpackungsregister. Registration is mandatory before packaging is placed on the German market, and the quantities reported to LUCID must match those reported to the dual system.",
+  "url": "https://eprpilot.com/en/faq.html"
+ },
+ {
+  "id": "faq-en-15",
+  "type": "faq",
+  "lang": "en",
+  "title": "How long does registration take?",
+  "text": "From a few days to a few weeks, depending on the country and stream. It takes longest where an authorised representative or a compliance scheme contract is needed. It is worth starting before your first sale in that market.",
+  "url": "https://eprpilot.com/en/faq.html"
+ },
+ {
+  "id": "faq-en-16",
+  "type": "faq",
+  "lang": "en",
+  "title": "Does shipping packaging count as well as product packaging?",
+  "text": "Yes, in most countries. The shipping box, fillers, film and tape reach the consumer, so they have to be reported and paid for just like the product packaging.",
+  "url": "https://eprpilot.com/en/faq.html"
+ },
+ {
+  "id": "faq-en-17",
+  "type": "faq",
+  "lang": "en",
+  "title": "What is WEEE?",
+  "text": "WEEE stands for waste electrical and electronic equipment. Producers and sellers of such equipment must register it, report the quantities placed on the market and finance collection and treatment, usually through a compliance scheme.",
+  "url": "https://eprpilot.com/en/faq.html"
+ },
+ {
+  "id": "faq-en-18",
+  "type": "faq",
+  "lang": "en",
+  "title": "Do batteries in devices create separate duties?",
+  "text": "Yes. Batteries and accumulators, including those built into devices, are a separate EPR stream. If you sell electronics with a battery, you often have three obligations at once: for the device, the battery and the packaging.",
+  "url": "https://eprpilot.com/en/faq.html"
+ },
+ {
+  "id": "faq-en-19",
+  "type": "faq",
+  "lang": "en",
+  "title": "Does the same company need multiple registrations?",
+  "text": "Often yes: one for each country and each stream. A company selling electronics in five countries may need well over ten registrations for packaging, WEEE and batteries.",
+  "url": "https://eprpilot.com/en/faq.html"
+ },
+ {
+  "id": "faq-en-20",
+  "type": "faq",
+  "lang": "en",
+  "title": "What is the PPWR?",
+  "text": "The PPWR is the EU Packaging and Packaging Waste Regulation (EU) 2025/40. It harmonises packaging requirements across the EU: recyclability, minimum recycled content, restricted substances, labelling and conformity documentation.",
+  "url": "https://eprpilot.com/en/faq.html"
+ },
+ {
+  "id": "faq-en-21",
+  "type": "faq",
+  "lang": "en",
+  "title": "Does PPWR replace national EPR registrations?",
+  "text": "No. PPWR sets common product requirements for packaging, but EPR registration, reporting and fees still happen in each country separately.",
+  "url": "https://eprpilot.com/en/faq.html"
+ },
+ {
+  "id": "faq-en-22",
+  "type": "faq",
+  "lang": "en",
+  "title": "What is an EU Declaration of Conformity for packaging?",
+  "text": "A document in which the packaging manufacturer states that it meets PPWR requirements. It includes the packaging identification, manufacturer details, the requirements met and the legal basis. The declaration rests on the technical documentation.",
+  "url": "https://eprpilot.com/en/faq.html"
+ },
+ {
+  "id": "faq-en-23",
+  "type": "faq",
+  "lang": "en",
+  "title": "What should be in a packaging technical file?",
+  "text": "A description of the packaging and its materials, the results of the PPWR conformity assessment, data on substances, recyclability and recycled content, and evidence from suppliers. The file must be kept for a set period and made available to authorities on request.",
+  "url": "https://eprpilot.com/en/faq.html"
+ },
+ {
+  "id": "faq-en-24",
+  "type": "faq",
+  "lang": "en",
+  "title": "Is a supplier's declaration sufficient for private label?",
+  "text": "Not always. If the packaging is placed on the market under your brand, you may be treated as the manufacturer and be responsible for the declaration. Supplier declarations are important evidence, but you must confirm the conformity of the whole packaging.",
+  "url": "https://eprpilot.com/en/faq.html"
+ },
+ {
+  "id": "faq-en-25",
+  "type": "faq",
+  "lang": "en",
+  "title": "What data do I need for an EPR report?",
+  "text": "The number of units sold in each country and period, and the weight of each packaging material per unit. For WEEE and batteries you also need the equipment category, battery chemistry and weight. It is best to keep this data at SKU level.",
+  "url": "https://eprpilot.com/en/faq.html"
+ },
+ {
+  "id": "faq-en-26",
+  "type": "faq",
+  "lang": "en",
+  "title": "Should I report pieces or kilograms?",
+  "text": "It depends on the country and stream. Packaging is usually reported in kilograms by material, while batteries and equipment are sometimes reported in both units and kilograms. That is why you need both values for every product.",
+  "url": "https://eprpilot.com/en/faq.html"
+ },
+ {
+  "id": "faq-en-27",
+  "type": "faq",
+  "lang": "en",
+  "title": "Are EPR reporting deadlines the same everywhere?",
+  "text": "No. Some countries require monthly reports, others quarterly, half-yearly or annual ones, and deadlines also differ between streams. One shared calendar for all markets makes this much easier.",
+  "url": "https://eprpilot.com/en/faq.html"
+ },
+ {
+  "id": "faq-en-28",
+  "type": "faq",
+  "lang": "en",
+  "title": "How can I avoid double counting?",
+  "text": "Be clear about who in the supply chain is the producer in each country, and don't report packaging that a supplier or platform has already reported. One SKU database and one source of sales data instead of several spreadsheets helps.",
+  "url": "https://eprpilot.com/en/faq.html"
+ },
+ {
+  "id": "faq-en-29",
+  "type": "faq",
+  "lang": "en",
+  "title": "What determines EPR fees?",
+  "text": "Mainly the weight and type of material, the country and the compliance scheme's rates. Rates are increasingly modulated: packaging that is hard to recycle pays more, and well-designed packaging pays less.",
+  "url": "https://eprpilot.com/en/faq.html"
+ },
+ {
+  "id": "faq-en-30",
+  "type": "faq",
+  "lang": "en",
+  "title": "Is registration the same as paying recycling fees?",
+  "text": "No. Registration is the entry in the national register and your producer number. Fees are paid separately, usually to a compliance scheme, based on the quantities you report.",
+  "url": "https://eprpilot.com/en/faq.html"
+ },
+ {
+  "id": "faq-en-31",
+  "type": "faq",
+  "lang": "en",
+  "title": "What happens if I miss an EPR obligation?",
+  "text": "Fines, fees charged retroactively and, in some countries, a ban on sales. Marketplaces can also block your listings until you provide a registration number.",
+  "url": "https://eprpilot.com/en/faq.html"
+ },
+ {
+  "id": "faq-en-32",
+  "type": "faq",
+  "lang": "en",
+  "title": "Can I correct an EPR report after submitting it?",
+  "text": "Usually yes, but the procedure and correction deadlines vary by country. It is better to fix an error yourself before an inspection finds it, and to keep the documentation that supports the correction.",
+  "url": "https://eprpilot.com/en/faq.html"
+ },
+ {
+  "id": "faq-en-33",
+  "type": "faq",
+  "lang": "en",
+  "title": "What can I manage in EPRPilot?",
+  "text": "Registrations, product and packaging data, reports for packaging, WEEE and batteries, deadlines in 29 countries and declarations in the PPWR module. All in one dashboard with a document archive.",
+  "url": "https://eprpilot.com/en/faq.html"
+ },
+ {
+  "id": "faq-en-34",
+  "type": "faq",
+  "lang": "en",
+  "title": "Does the software register my company automatically?",
+  "text": "The app prepares your data and shows where you have obligations. The registration in national registers is carried out together with the Otoneso team as a service, because it requires powers of attorney and contact with authorities.",
+  "url": "https://eprpilot.com/en/faq.html"
+ },
+ {
+  "id": "faq-en-35",
+  "type": "faq",
+  "lang": "en",
+  "title": "What does the EPR registration service cost?",
+  "text": "It depends on the number of countries and streams, and on whether an authorised representative is needed. The simplest way is to book a short call and we will prepare a quote for your markets.",
+  "url": "https://eprpilot.com/en/faq.html"
+ },
+ {
+  "id": "faq-en-36",
+  "type": "faq",
+  "lang": "en",
+  "title": "Can I speak with an expert before choosing a service?",
+  "text": "Yes. You can book a free 15-minute call or buy a one-hour EPR and PPWR consultation, after which you get a written action list.",
+  "url": "https://eprpilot.com/en/faq.html"
+ },
+ {
+  "id": "faq-en-37",
+  "type": "faq",
+  "lang": "en",
+  "title": "Can Amazon ask for my EPR number?",
+  "text": "Yes. Amazon and other platforms in countries such as Germany and France must verify sellers' EPR numbers and ask for them in Seller Central.",
+  "url": "https://eprpilot.com/en/faq.html"
+ },
+ {
+  "id": "faq-en-38",
+  "type": "faq",
+  "lang": "en",
+  "title": "Do I need EPR for sales through my own shop?",
+  "text": "Yes. Obligations depend on the country the goods are delivered to, not on the sales channel. An online shop shipping abroad is subject to the same rules as marketplace sales.",
+  "url": "https://eprpilot.com/en/faq.html"
+ },
+ {
+  "id": "faq-en-39",
+  "type": "faq",
+  "lang": "en",
+  "title": "Who reports packaging added by a fulfilment provider?",
+  "text": "Usually the seller, because the goods reach the customer on the seller's behalf. This includes boxes and fillers added by the warehouse. Ask your provider for data on the packaging it uses.",
+  "url": "https://eprpilot.com/en/faq.html"
+ },
+ {
+  "id": "faq-en-40",
+  "type": "faq",
+  "lang": "en",
+  "title": "Can a marketplace block listings over missing EPR details?",
+  "text": "Yes. If a valid registration number for a given country and category is missing, the platform can suspend or remove listings until it is provided.",
+  "url": "https://eprpilot.com/en/faq.html"
+ },
+ {
+  "id": "faq-en-41",
+  "type": "faq",
+  "lang": "en",
+  "title": "How is packaging EPR handled in Germany?",
+  "text": "You need a LUCID registration and a contract with a dual system for packaging that ends up in households. You report quantities in both places, and above certain volumes you also file an annual declaration of completeness.",
+  "url": "https://eprpilot.com/en/faq.html"
+ },
+ {
+  "id": "faq-en-42",
+  "type": "faq",
+  "lang": "en",
+  "title": "What should I check when selling in France?",
+  "text": "France has separate schemes for many streams and issues a UIN number. It also requires the Triman logo with sorting information, and platforms verify sellers' numbers.",
+  "url": "https://eprpilot.com/en/faq.html"
+ },
+ {
+  "id": "faq-en-43",
+  "type": "faq",
+  "lang": "en",
+  "title": "What should I check when selling in Poland?",
+  "text": "BDO registration, a contract with a recovery organisation or fulfilling the obligations yourself, the BDO number on invoices and an annual report. On top of that come product fees and the deposit return system for some packaging.",
+  "url": "https://eprpilot.com/en/faq.html"
+ },
+ {
+  "id": "faq-en-44",
+  "type": "faq",
+  "lang": "en",
+  "title": "Are the UK and Turkey covered by EU registrations?",
+  "text": "No. The UK and Turkey have their own EPR systems and registrations, independent of EU countries. EPRPilot covers them alongside the 27 EU member states.",
+  "url": "https://eprpilot.com/en/faq.html"
+ },
+ {
+  "id": "faq-en-45",
+  "type": "faq",
+  "lang": "en",
+  "title": "Why do I need the weight of each packaging material?",
+  "text": "Because fees and reports are calculated separately for each material: paper, plastics, glass, metal or wood. Without weights at material level you cannot calculate your obligations correctly.",
+  "url": "https://eprpilot.com/en/faq.html"
+ },
+ {
+  "id": "faq-en-46",
+  "type": "faq",
+  "lang": "en",
+  "title": "How should I classify composite packaging?",
+  "text": "It depends on the country: some require a breakdown by material, others have a separate category for composite packaging. Either way, you should know the weight of each component.",
+  "url": "https://eprpilot.com/en/faq.html"
+ },
+ {
+  "id": "faq-en-47",
+  "type": "faq",
+  "lang": "en",
+  "title": "Are recycling symbols mandatory on every package?",
+  "text": "Not everywhere, but requirements are growing. France and Italy already have mandatory labelling, and PPWR will introduce harmonised labels across the EU.",
+  "url": "https://eprpilot.com/en/faq.html"
+ },
+ {
+  "id": "faq-en-48",
+  "type": "faq",
+  "lang": "en",
+  "title": "Does recycled content remove EPR fees?",
+  "text": "It does not remove them, but in some countries it lowers the rate through fee modulation. PPWR also introduces minimum recycled content levels for plastic packaging.",
+  "url": "https://eprpilot.com/en/faq.html"
+ },
+ {
+  "id": "faq-en-49",
+  "type": "faq",
+  "lang": "en",
+  "title": "What should I do before entering a new EU market?",
+  "text": "Check which EPR streams apply to you, register before your first sale, sign up with a compliance scheme and agree who reports and when. Prepare packaging weight data for all your SKUs.",
+  "url": "https://eprpilot.com/en/faq.html"
+ },
+ {
+  "id": "faq-en-50",
+  "type": "faq",
+  "lang": "en",
+  "title": "Who in my company should own EPR data?",
+  "text": "One person or team with access to product and sales data, most often from operations, compliance or finance. What matters is that responsibility is clearly assigned.",
+  "url": "https://eprpilot.com/en/faq.html"
+ },
+ {
+  "id": "faq-en-51",
+  "type": "faq",
+  "lang": "en",
+  "title": "How often should I review my packaging data?",
+  "text": "Whenever packaging or a supplier changes, and at least once a year. Outdated weights are the most common cause of wrong reports.",
+  "url": "https://eprpilot.com/en/faq.html"
+ },
+ {
+  "id": "faq-en-52",
+  "type": "faq",
+  "lang": "en",
+  "title": "Can I manage EPR in a spreadsheet?",
+  "text": "With one country and a few products, yes. With several markets and streams a spreadsheet quickly becomes a source of errors, missed deadlines and no audit trail.",
+  "url": "https://eprpilot.com/en/faq.html"
+ },
+ {
+  "id": "faq-de-1",
+  "type": "faq",
+  "lang": "de",
+  "title": "Was ist EPR?",
+  "text": "EPR, die erweiterte Herstellerverantwortung, bedeutet, dass ein Unternehmen, das Produkte in Verkehr bringt, die Sammlung und das Recycling der daraus entstehenden Abfälle mitfinanziert. In der Praxis heißt das: Registrierung im jeweiligen Land, regelmäßige Mengenmeldungen und Gebühren, meist über ein Rücknahmesystem.",
+  "url": "https://eprpilot.com/de/faq.html"
+ },
+ {
+  "id": "faq-de-2",
+  "type": "faq",
+  "lang": "de",
+  "title": "Welche Produktgruppen können unter EPR fallen?",
+  "text": "Meist Verpackungen, Elektro- und Elektronikgeräte (WEEE) und Batterien. Je nach Land kommen Textilien, Möbel, Reifen, grafisches Papier oder Einwegkunststoffprodukte hinzu.",
+  "url": "https://eprpilot.com/de/faq.html"
+ },
+ {
+  "id": "faq-de-3",
+  "type": "faq",
+  "lang": "de",
+  "title": "Ist EPR eine Registrierung für die ganze EU?",
+  "text": "Nein. EPR funktioniert national: Jedes Land hat eigenes Register, eigene Nummer, Regeln und Fristen. Wenn Sie in mehrere Länder verkaufen, brauchen Sie meist in jedem Land und für jeden Produktbereich eine eigene Registrierung.",
+  "url": "https://eprpilot.com/de/faq.html"
+ },
+ {
+  "id": "faq-de-4",
+  "type": "faq",
+  "lang": "de",
+  "title": "Gilt EPR auch für kleine Unternehmen?",
+  "text": "In der Regel ja. Manche Länder haben Mengenschwellen oder vereinfachte Verfahren für kleine Hersteller, die Registrierung gilt aber oft ab dem ersten Stück. Prüfen Sie jeden Markt einzeln.",
+  "url": "https://eprpilot.com/de/faq.html"
+ },
+ {
+  "id": "faq-de-5",
+  "type": "faq",
+  "lang": "de",
+  "title": "Was ist eine Organisation für Herstellerverantwortung?",
+  "text": "Eine Organisation, die Sammel- und Recyclingpflichten im Namen der Hersteller übernimmt, etwa Citeo in Frankreich oder die dualen Systeme in Deutschland. Der Hersteller schließt einen Vertrag, meldet Mengen und zahlt Gebühren nach Material und Gewicht.",
+  "url": "https://eprpilot.com/de/faq.html"
+ },
+ {
+  "id": "faq-de-6",
+  "type": "faq",
+  "lang": "de",
+  "title": "Ich verkaufe grenzüberschreitend. Wo prüfe ich meine Pflichten?",
+  "text": "In jedem Land, in dem Ihre Produkte beim Endkunden ankommen. Entscheidend ist das Lieferland, nicht der Firmensitz. Beginnen Sie mit einer Liste Ihrer Absatzmärkte und Produktbereiche und prüfen Sie dann die Regeln für jeden einzelnen.",
+  "url": "https://eprpilot.com/de/faq.html"
+ },
+ {
+  "id": "faq-de-7",
+  "type": "faq",
+  "lang": "de",
+  "title": "Entfallen meine Pflichten beim Verkauf über einen Marktplatz?",
+  "text": "Meist nicht. In vielen Ländern muss der Marktplatz die EPR-Nummer des Verkäufers prüfen, Registrierung und Meldungen bleiben aber bei Ihnen. Ausnahmen gibt es, wo die Plattform anbietet, die Pflichten für Sie zu erfüllen.",
+  "url": "https://eprpilot.com/de/faq.html"
+ },
+ {
+  "id": "faq-de-8",
+  "type": "faq",
+  "lang": "de",
+  "title": "Ich importiere Waren. Kann ich mich auf die Registrierung meines Lieferanten verlassen?",
+  "text": "Nur wenn der Lieferant das Produkt tatsächlich in diesem Land in Verkehr bringt und dort als Hersteller registriert ist. Wenn Sie die Ware als Erster in Verkehr bringen, liegt die Pflicht meist bei Ihnen.",
+  "url": "https://eprpilot.com/de/faq.html"
+ },
+ {
+  "id": "faq-de-9",
+  "type": "faq",
+  "lang": "de",
+  "title": "Haben Eigenmarkenhändler Verpackungspflichten?",
+  "text": "Ja. Das Unternehmen, unter dessen Marke das Produkt verkauft wird, gilt meist als Hersteller und ist für Registrierung und Meldung der Verpackungen verantwortlich, auch wenn die Produktion ausgelagert ist.",
+  "url": "https://eprpilot.com/de/faq.html"
+ },
+ {
+  "id": "faq-de-10",
+  "type": "faq",
+  "lang": "de",
+  "title": "Wann brauche ich einen Bevollmächtigten?",
+  "text": "Wenn Sie in ein Land verkaufen, in dem Sie keine Niederlassung haben und die Regeln einen Bevollmächtigten verlangen. Das gilt zum Beispiel für WEEE und Batterien in Deutschland oder Frankreich. Der Bevollmächtigte erfüllt Ihre EPR-Pflichten in Ihrem Namen.",
+  "url": "https://eprpilot.com/de/faq.html"
+ },
+ {
+  "id": "faq-de-11",
+  "type": "faq",
+  "lang": "de",
+  "title": "Welche Unterlagen braucht man in der Regel für die Registrierung?",
+  "text": "Meist Handelsregisterdaten, USt- oder EORI-Nummer, eine Kontaktperson, eine Produktbeschreibung und geschätzte Mengen an Verpackungen, Geräten oder Batterien. Manche Länder verlangen zusätzlich eine Vollmacht oder einen Vertrag mit einem Rücknahmesystem.",
+  "url": "https://eprpilot.com/de/faq.html"
+ },
+ {
+  "id": "faq-de-12",
+  "type": "faq",
+  "lang": "de",
+  "title": "Was ist eine EPR-Registrierungsnummer?",
+  "text": "Eine Kennung, die Sie nach der Registrierung in einem nationalen Herstellerregister erhalten. Sie geben sie auf Rechnungen, in Unterlagen für Geschäftspartner und auf Marktplätzen als Nachweis an, dass Sie Ihre Pflichten in diesem Land erfüllen.",
+  "url": "https://eprpilot.com/de/faq.html"
+ },
+ {
+  "id": "faq-de-13",
+  "type": "faq",
+  "lang": "de",
+  "title": "Was ist BDO in Polen?",
+  "text": "BDO ist die polnische Datenbank für Produkte, Verpackungen und Abfallwirtschaft. Unternehmen, die Verpackungen, Geräte und Batterien auf den polnischen Markt bringen, registrieren sich dort. Die BDO-Nummer muss auf Rechnungen stehen, und einmal im Jahr ist ein Jahresbericht fällig.",
+  "url": "https://eprpilot.com/de/faq.html"
+ },
+ {
+  "id": "faq-de-14",
+  "type": "faq",
+  "lang": "de",
+  "title": "Was ist LUCID in Deutschland?",
+  "text": "LUCID ist das öffentliche Verpackungsregister der Zentralen Stelle Verpackungsregister. Die Registrierung ist Pflicht, bevor Verpackungen in Deutschland in Verkehr gebracht werden, und die an LUCID gemeldeten Mengen müssen mit den Meldungen an das duale System übereinstimmen.",
+  "url": "https://eprpilot.com/de/faq.html"
+ },
+ {
+  "id": "faq-de-15",
+  "type": "faq",
+  "lang": "de",
+  "title": "Wie lange dauert die Registrierung?",
+  "text": "Von einigen Tagen bis zu einigen Wochen, je nach Land und Bereich. Am längsten dauert es, wenn ein Bevollmächtigter oder ein Vertrag mit einem Rücknahmesystem nötig ist. Beginnen Sie am besten vor dem ersten Verkauf in diesem Markt.",
+  "url": "https://eprpilot.com/de/faq.html"
+ },
+ {
+  "id": "faq-de-16",
+  "type": "faq",
+  "lang": "de",
+  "title": "Zählt Versandverpackung genauso wie Produktverpackung?",
+  "text": "Ja, in den meisten Ländern. Versandkarton, Füllmaterial, Folie und Klebeband landen beim Verbraucher und müssen daher wie die Produktverpackung gemeldet und bezahlt werden.",
+  "url": "https://eprpilot.com/de/faq.html"
+ },
+ {
+  "id": "faq-de-17",
+  "type": "faq",
+  "lang": "de",
+  "title": "Was ist WEEE?",
+  "text": "WEEE steht für Elektro- und Elektronik-Altgeräte. Hersteller und Verkäufer solcher Geräte müssen sie registrieren, die in Verkehr gebrachten Mengen melden und Sammlung und Behandlung finanzieren, meist über ein Rücknahmesystem.",
+  "url": "https://eprpilot.com/de/faq.html"
+ },
+ {
+  "id": "faq-de-18",
+  "type": "faq",
+  "lang": "de",
+  "title": "Entstehen durch Batterien in Geräten eigene Pflichten?",
+  "text": "Ja. Batterien und Akkus, auch eingebaute, sind ein eigener EPR-Bereich. Wer Elektronik mit Batterie verkauft, hat oft drei Pflichten gleichzeitig: für das Gerät, die Batterie und die Verpackung.",
+  "url": "https://eprpilot.com/de/faq.html"
+ },
+ {
+  "id": "faq-de-19",
+  "type": "faq",
+  "lang": "de",
+  "title": "Braucht ein Unternehmen mehrere Registrierungen?",
+  "text": "Oft ja: eine pro Land und Bereich. Ein Unternehmen, das Elektronik in fünf Ländern verkauft, kann deutlich über zehn Registrierungen für Verpackungen, WEEE und Batterien benötigen.",
+  "url": "https://eprpilot.com/de/faq.html"
+ },
+ {
+  "id": "faq-de-20",
+  "type": "faq",
+  "lang": "de",
+  "title": "Was ist die PPWR?",
+  "text": "Die PPWR ist die EU-Verpackungsverordnung (EU) 2025/40. Sie vereinheitlicht die Anforderungen an Verpackungen in der EU: Recyclingfähigkeit, Mindestrezyklatanteil, beschränkte Stoffe, Kennzeichnung und Konformitätsdokumentation.",
+  "url": "https://eprpilot.com/de/faq.html"
+ },
+ {
+  "id": "faq-de-21",
+  "type": "faq",
+  "lang": "de",
+  "title": "Ersetzt die PPWR nationale EPR-Registrierungen?",
+  "text": "Nein. Die PPWR legt gemeinsame Produktanforderungen an Verpackungen fest, EPR-Registrierung, Meldungen und Gebühren bleiben aber Sache jedes einzelnen Landes.",
+  "url": "https://eprpilot.com/de/faq.html"
+ },
+ {
+  "id": "faq-de-22",
+  "type": "faq",
+  "lang": "de",
+  "title": "Was ist eine EU-Konformitätserklärung für Verpackungen?",
+  "text": "Ein Dokument, in dem der Verpackungshersteller erklärt, dass die Verpackung die PPWR-Anforderungen erfüllt. Es enthält die Identifikation der Verpackung, Herstellerangaben, die erfüllten Anforderungen und die Rechtsgrundlage. Grundlage ist die technische Dokumentation.",
+  "url": "https://eprpilot.com/de/faq.html"
+ },
+ {
+  "id": "faq-de-23",
+  "type": "faq",
+  "lang": "de",
+  "title": "Was gehört in die technische Dokumentation einer Verpackung?",
+  "text": "Eine Beschreibung der Verpackung und ihrer Materialien, die Ergebnisse der PPWR-Konformitätsbewertung, Daten zu Stoffen, Recyclingfähigkeit und Rezyklatanteil sowie Nachweise der Lieferanten. Die Unterlagen müssen für einen festgelegten Zeitraum aufbewahrt und Behörden auf Anfrage vorgelegt werden.",
+  "url": "https://eprpilot.com/de/faq.html"
+ },
+ {
+  "id": "faq-de-24",
+  "type": "faq",
+  "lang": "de",
+  "title": "Reicht bei Eigenmarken die Erklärung des Lieferanten?",
+  "text": "Nicht immer. Wird die Verpackung unter Ihrer Marke in Verkehr gebracht, können Sie als Hersteller gelten und für die Erklärung verantwortlich sein. Lieferantenerklärungen sind wichtige Nachweise, die Konformität der gesamten Verpackung müssen aber Sie bestätigen.",
+  "url": "https://eprpilot.com/de/faq.html"
+ },
+ {
+  "id": "faq-de-25",
+  "type": "faq",
+  "lang": "de",
+  "title": "Welche Daten brauche ich für einen EPR-Bericht?",
+  "text": "Die verkaufte Stückzahl pro Land und Zeitraum sowie das Gewicht jedes Verpackungsmaterials pro Stück. Für WEEE und Batterien brauchen Sie zusätzlich Gerätekategorie, Batteriechemie und Gewicht. Am besten führen Sie diese Daten auf SKU-Ebene.",
+  "url": "https://eprpilot.com/de/faq.html"
+ },
+ {
+  "id": "faq-de-26",
+  "type": "faq",
+  "lang": "de",
+  "title": "Melde ich Stück oder Kilogramm?",
+  "text": "Das hängt von Land und Bereich ab. Verpackungen werden meist in Kilogramm je Material gemeldet, Batterien und Geräte teils in Stück und Kilogramm. Deshalb brauchen Sie für jedes Produkt beide Werte.",
+  "url": "https://eprpilot.com/de/faq.html"
+ },
+ {
+  "id": "faq-de-27",
+  "type": "faq",
+  "lang": "de",
+  "title": "Sind die EPR-Meldefristen überall gleich?",
+  "text": "Nein. Manche Länder verlangen monatliche Meldungen, andere vierteljährliche, halbjährliche oder jährliche, und die Fristen unterscheiden sich auch je nach Bereich. Ein gemeinsamer Kalender für alle Märkte macht es deutlich einfacher.",
+  "url": "https://eprpilot.com/de/faq.html"
+ },
+ {
+  "id": "faq-de-28",
+  "type": "faq",
+  "lang": "de",
+  "title": "Wie vermeide ich Doppelmeldungen?",
+  "text": "Klären Sie, wer in der Lieferkette in jedem Land als Hersteller gilt, und melden Sie keine Verpackungen, die bereits ein Lieferant oder eine Plattform gemeldet hat. Eine SKU-Datenbank und eine Quelle für Verkaufsdaten statt mehrerer Tabellen helfen dabei.",
+  "url": "https://eprpilot.com/de/faq.html"
+ },
+ {
+  "id": "faq-de-29",
+  "type": "faq",
+  "lang": "de",
+  "title": "Wovon hängen EPR-Gebühren ab?",
+  "text": "Vor allem von Gewicht und Materialart, dem Land und den Tarifen des Rücknahmesystems. Die Tarife werden zunehmend moduliert: Schwer recycelbare Verpackungen zahlen mehr, gut gestaltete weniger.",
+  "url": "https://eprpilot.com/de/faq.html"
+ },
+ {
+  "id": "faq-de-30",
+  "type": "faq",
+  "lang": "de",
+  "title": "Ist die Registrierung dasselbe wie die Zahlung der Recyclinggebühren?",
+  "text": "Nein. Die Registrierung ist der Eintrag im nationalen Register und Ihre Herstellernummer. Gebühren zahlen Sie separat, meist an ein Rücknahmesystem, auf Basis der gemeldeten Mengen.",
+  "url": "https://eprpilot.com/de/faq.html"
+ },
+ {
+  "id": "faq-de-31",
+  "type": "faq",
+  "lang": "de",
+  "title": "Was passiert, wenn ich eine EPR-Pflicht versäume?",
+  "text": "Bußgelder, rückwirkend erhobene Gebühren und in manchen Ländern ein Vertriebsverbot. Marktplätze können zudem Ihre Angebote sperren, bis Sie eine Registrierungsnummer angeben.",
+  "url": "https://eprpilot.com/de/faq.html"
+ },
+ {
+  "id": "faq-de-32",
+  "type": "faq",
+  "lang": "de",
+  "title": "Kann ich einen EPR-Bericht nach der Einreichung korrigieren?",
+  "text": "Meist ja, Verfahren und Korrekturfristen unterscheiden sich aber je nach Land. Besser korrigieren Sie einen Fehler selbst, bevor eine Prüfung ihn findet, und bewahren die Belege für die Korrektur auf.",
+  "url": "https://eprpilot.com/de/faq.html"
+ },
+ {
+  "id": "faq-de-33",
+  "type": "faq",
+  "lang": "de",
+  "title": "Was kann ich in EPRPilot verwalten?",
+  "text": "Registrierungen, Produkt- und Verpackungsdaten, Berichte für Verpackungen, WEEE und Batterien, Fristen in 29 Ländern und Erklärungen im PPWR-Modul. Alles in einem Dashboard mit Dokumentenarchiv.",
+  "url": "https://eprpilot.com/de/faq.html"
+ },
+ {
+  "id": "faq-de-34",
+  "type": "faq",
+  "lang": "de",
+  "title": "Registriert die Software mein Unternehmen automatisch?",
+  "text": "Die App bereitet Ihre Daten auf und zeigt, wo Sie Pflichten haben. Die Registrierung in nationalen Registern übernimmt das Otoneso-Team als Dienstleistung, da sie Vollmachten und Kontakt mit Behörden erfordert.",
+  "url": "https://eprpilot.com/de/faq.html"
+ },
+ {
+  "id": "faq-de-35",
+  "type": "faq",
+  "lang": "de",
+  "title": "Was kostet die EPR-Registrierung als Dienstleistung?",
+  "text": "Das hängt von der Zahl der Länder und Bereiche ab und davon, ob ein Bevollmächtigter nötig ist. Am einfachsten buchen Sie ein kurzes Gespräch, und wir erstellen ein Angebot für Ihre Märkte.",
+  "url": "https://eprpilot.com/de/faq.html"
+ },
+ {
+  "id": "faq-de-36",
+  "type": "faq",
+  "lang": "de",
+  "title": "Kann ich vor der Wahl einer Leistung mit einem Experten sprechen?",
+  "text": "Ja. Sie können ein kostenloses 15-minütiges Gespräch buchen oder eine einstündige EPR- und PPWR-Beratung kaufen, nach der Sie eine schriftliche Aufgabenliste erhalten.",
+  "url": "https://eprpilot.com/de/faq.html"
+ },
+ {
+  "id": "faq-de-37",
+  "type": "faq",
+  "lang": "de",
+  "title": "Kann Amazon meine EPR-Nummer verlangen?",
+  "text": "Ja. Amazon und andere Plattformen müssen in Ländern wie Deutschland und Frankreich die EPR-Nummern der Verkäufer prüfen und fragen sie in Seller Central ab.",
+  "url": "https://eprpilot.com/de/faq.html"
+ },
+ {
+  "id": "faq-de-38",
+  "type": "faq",
+  "lang": "de",
+  "title": "Brauche ich EPR für Verkäufe über meinen eigenen Shop?",
+  "text": "Ja. Die Pflichten hängen vom Lieferland ab, nicht vom Vertriebskanal. Ein Onlineshop, der ins Ausland liefert, unterliegt denselben Regeln wie der Verkauf über Marktplätze.",
+  "url": "https://eprpilot.com/de/faq.html"
+ },
+ {
+  "id": "faq-de-39",
+  "type": "faq",
+  "lang": "de",
+  "title": "Wer meldet Verpackungen, die ein Fulfillment-Dienstleister hinzufügt?",
+  "text": "Meist der Verkäufer, weil die Ware im Namen des Verkäufers beim Kunden ankommt. Dazu gehören auch Kartons und Füllmaterial aus dem Lager. Fragen Sie Ihren Dienstleister nach Daten zu den verwendeten Verpackungen.",
+  "url": "https://eprpilot.com/de/faq.html"
+ },
+ {
+  "id": "faq-de-40",
+  "type": "faq",
+  "lang": "de",
+  "title": "Kann ein Marktplatz Angebote wegen fehlender EPR-Angaben sperren?",
+  "text": "Ja. Fehlt eine gültige Registrierungsnummer für ein Land und eine Kategorie, kann die Plattform Angebote aussetzen oder entfernen, bis sie vorliegt.",
+  "url": "https://eprpilot.com/de/faq.html"
+ },
+ {
+  "id": "faq-de-41",
+  "type": "faq",
+  "lang": "de",
+  "title": "Wie funktioniert Verpackungs-EPR in Deutschland?",
+  "text": "Sie brauchen eine LUCID-Registrierung und einen Vertrag mit einem dualen System für Verpackungen, die bei privaten Endverbrauchern anfallen. Sie melden die Mengen an beiden Stellen und geben ab bestimmten Mengen zusätzlich eine jährliche Vollständigkeitserklärung ab.",
+  "url": "https://eprpilot.com/de/faq.html"
+ },
+ {
+  "id": "faq-de-42",
+  "type": "faq",
+  "lang": "de",
+  "title": "Was sollte ich beim Verkauf in Frankreich prüfen?",
+  "text": "Frankreich hat eigene Systeme für viele Bereiche und vergibt eine UIN-Nummer. Außerdem ist das Triman-Logo mit Trennhinweisen Pflicht, und Plattformen prüfen die Nummern der Verkäufer.",
+  "url": "https://eprpilot.com/de/faq.html"
+ },
+ {
+  "id": "faq-de-43",
+  "type": "faq",
+  "lang": "de",
+  "title": "Was sollte ich beim Verkauf in Polen prüfen?",
+  "text": "BDO-Registrierung, ein Vertrag mit einer Verwertungsorganisation oder die eigenständige Erfüllung der Pflichten, die BDO-Nummer auf Rechnungen und ein Jahresbericht. Hinzu kommen Produktgebühren und das Pfandsystem für bestimmte Verpackungen.",
+  "url": "https://eprpilot.com/de/faq.html"
+ },
+ {
+  "id": "faq-de-44",
+  "type": "faq",
+  "lang": "de",
+  "title": "Sind Großbritannien und die Türkei durch EU-Registrierungen abgedeckt?",
+  "text": "Nein. Großbritannien und die Türkei haben eigene EPR-Systeme und Registrierungen, unabhängig von den EU-Ländern. EPRPilot deckt sie zusätzlich zu den 27 EU-Mitgliedstaaten ab.",
+  "url": "https://eprpilot.com/de/faq.html"
+ },
+ {
+  "id": "faq-de-45",
+  "type": "faq",
+  "lang": "de",
+  "title": "Warum brauche ich das Gewicht jedes Verpackungsmaterials?",
+  "text": "Weil Gebühren und Meldungen für jedes Material getrennt berechnet werden: Papier, Kunststoff, Glas, Metall oder Holz. Ohne Gewichte auf Materialebene lassen sich Ihre Pflichten nicht korrekt berechnen.",
+  "url": "https://eprpilot.com/de/faq.html"
+ },
+ {
+  "id": "faq-de-46",
+  "type": "faq",
+  "lang": "de",
+  "title": "Wie klassifiziere ich Verbundverpackungen?",
+  "text": "Das hängt vom Land ab: Manche verlangen eine Aufschlüsselung nach Material, andere haben eine eigene Kategorie für Verbundverpackungen. So oder so sollten Sie das Gewicht jeder Komponente kennen.",
+  "url": "https://eprpilot.com/de/faq.html"
+ },
+ {
+  "id": "faq-de-47",
+  "type": "faq",
+  "lang": "de",
+  "title": "Sind Recyclingsymbole auf jeder Verpackung Pflicht?",
+  "text": "Nicht überall, aber die Anforderungen wachsen. Frankreich und Italien haben bereits eine Kennzeichnungspflicht, und die PPWR führt EU-weit einheitliche Kennzeichnungen ein.",
+  "url": "https://eprpilot.com/de/faq.html"
+ },
+ {
+  "id": "faq-de-48",
+  "type": "faq",
+  "lang": "de",
+  "title": "Entfallen EPR-Gebühren durch Rezyklatanteil?",
+  "text": "Sie entfallen nicht, in manchen Ländern sinkt aber der Tarif durch die Gebührenmodulation. Die PPWR führt außerdem Mindestrezyklatanteile für Kunststoffverpackungen ein.",
+  "url": "https://eprpilot.com/de/faq.html"
+ },
+ {
+  "id": "faq-de-49",
+  "type": "faq",
+  "lang": "de",
+  "title": "Was sollte ich vor dem Eintritt in einen neuen EU-Markt tun?",
+  "text": "Prüfen Sie, welche EPR-Bereiche für Sie gelten, registrieren Sie sich vor dem ersten Verkauf, schließen Sie einen Vertrag mit einem Rücknahmesystem und legen Sie fest, wer wann meldet. Bereiten Sie Verpackungsgewichte für alle SKUs vor.",
+  "url": "https://eprpilot.com/de/faq.html"
+ },
+ {
+  "id": "faq-de-50",
+  "type": "faq",
+  "lang": "de",
+  "title": "Wer im Unternehmen sollte für EPR-Daten zuständig sein?",
+  "text": "Eine Person oder ein Team mit Zugriff auf Produkt- und Verkaufsdaten, meist aus Operations, Compliance oder Finanzen. Wichtig ist, dass die Verantwortung klar geregelt ist.",
+  "url": "https://eprpilot.com/de/faq.html"
+ },
+ {
+  "id": "faq-de-51",
+  "type": "faq",
+  "lang": "de",
+  "title": "Wie oft sollte ich meine Verpackungsdaten prüfen?",
+  "text": "Bei jeder Änderung der Verpackung oder des Lieferanten und mindestens einmal im Jahr. Veraltete Gewichte sind die häufigste Ursache für falsche Meldungen.",
+  "url": "https://eprpilot.com/de/faq.html"
+ },
+ {
+  "id": "faq-de-52",
+  "type": "faq",
+  "lang": "de",
+  "title": "Kann ich EPR in einer Tabelle verwalten?",
+  "text": "Bei einem Land und wenigen Produkten ja. Bei mehreren Märkten und Bereichen wird eine Tabelle schnell zur Quelle von Fehlern, versäumten Fristen und fehlendem Prüfpfad.",
+  "url": "https://eprpilot.com/de/faq.html"
+ },
+ {
+  "id": "blog-pl-amazon-polska-epr-bdo-opakowania-weee-baterie-2026",
+  "type": "article",
+  "lang": "pl",
+  "title": "EPR w Polsce dla sprzedawców Amazon: BDO, opakowania, elektronika i baterie w 2026",
+  "summary": "Aktywna oferta na Amazonie to nie zgodność z EPR. Rola producenta, zakres wpisu w BDO, FBA i FBM, trzy strumienie w jednej ofercie, de minimis 1 Mg, raport do 15 marca i weryfikacja Amazona.",
+  "text": "← Wszystkie wpisy Aktywna oferta w Seller Central nie dowodzi, że obowiązki środowiskowe są spełnione. To, że Amazon przyjął produkt, nie zastępuje rejestracji, ewidencji wag ani finansowania gospodarki odpadami. Oto jak to uporządkować przy sprzedaży do Polski w 2026 roku. Najpierw ustal swoją rolę, potem szukaj numeru Obowiązki producenta mogą spaść na importera, pierwszego dostawcę w kraju albo sprzedawcę wysyłkowego. Opakowania, sprzęt i baterie oceniasz osobno . Domena amazon.pl czy adres magazynu same w sobie nie przesądzają o obowiązkach. BDO: wpis musi odpowiadać faktycznej działalności Zarejestruj się przed rozpoczęciem działalności. Wpis musi obejmować właściwe działy i rodzaje produktów. Numer bez prawidłowego zakresu nie jest dowodem zgodności. Pamiętaj też, że ewidencja wag produktów to nie to samo co ewidencja odpadów. Więcej o samym BDO piszemy we wpisie EPR w Polsce 2026 . Opakowania: waż komponenty, nie tylko karton Uwzględnij wkładki, folie, opakowania zbiorcze i elementy transportowe. Wagi raportuj według materiałów. Faktury zakupowe nie odzwierciedlają rzeczywistych przepływów towaru. Sprawdź też ponownie, kto jest producentem w świetle definicji z PPWR. FBA i FBM: logistyka nie przenosi EPR FBA Magazynowanie i wysyłka przez Amazon nie przenoszą Twoich obowiązków dla produktów, opakowań i baterii. Opakowania dodane przez Amazon i opakowania transportowe w dostawach do magazynu oceń osobno. FBM Sam wysyłasz, więc karton wysyłkowy i wypełniacz to Twoje opakowania do zaraportowania w kraju odbiorcy. Nie przypisuj całej sprzedaży do Polski tylko dlatego, że towar leży w polskim magazynie. Liczy się kraj, do którego produkt faktycznie trafia. Elektronika i baterie: trzy strumienie w jednej ofercie Produkt z akumulatorem może uruchomić jednocześnie obowiązki dla opakowań, sprzętu i baterii. Baterie wbudowane też się liczą. Opakowania Pudełko, wkładka, folia, karton wysyłkowy. Sprzęt (WEEE) Kategoria i waga urządzenia. Baterie Rozdział VIII rozporządzenia (UE) 2023/1542 obowiązuje od 18 sierpnia 2025 r. Paszport baterii od 18 lutego 2027 r. dotyczy wybranych kategorii. Rejestracja to początek: finansowanie i raporty Zorganizuj realizację obowiązków dla każdego strumienia. Roczne sprawozdanie w BDO składa się co do zasady do 15 marca za poprzedni rok , więc dane za 2026 r. trzeba złożyć do 15 marca 2027 r. Prowadź osobne kalendarze i zachowuj potwierdzenia złożenia. Do 1 tony opakowań: ulga to nie wyrejestrowanie Ścieżka de minimis dotyczy sytuacji, gdy masa opakowań wprowadzonych na rynek nie przekracza 1 Mg rocznie . Nie zwalnia z rejestracji w BDO, ewidencji ani raportowania i nie obejmuje sprzętu ani baterii. Procedurę potwierdź z urzędem przed terminem. Weryfikacja Amazona: sprawdzaj kraj i kategorię Weryfikacja przez Amazon to coś innego niż obowiązki prawne. W komunikacie z 30 lipca 2025 r. Amazon wyznaczył 18 sierpnia 2025 r. jako termin weryfikacji dla rozporządzenia bateryjnego i wskazał BDO jako polski rejestr. Niemiecki numer LUCID czy francuski UIN nie oznaczają zgodności w Polsce , a numer BDO nie zastępuje rejestracji za granicą. Art. 45 ust. 4 PPWR nakłada obowiązki na platformy, ale jednolitej daty blokad na razie nie ma. Przegląd platform znajdziesz we wpisie EPR i PPWR na marketplace’ach . PPWR od sierpnia 2026: nie wszystko naraz Rozporządzenie (UE) 2025/40 stosuje się co do zasady od 12 sierpnia 2026 r. Zagraniczni sprzedawcy wysyłkowi w rozumieniu art. 3 ust. 1 pkt 15 lit. d) powinni ocenić, czy muszą ustanowić upoważnionego przedstawiciela ds. EPR zgodnie z art. 45 ust. 3. Klasy recyklingowalności i limit 50% pustej przestrzeni mają późniejsze terminy. Przykład: lampka z akumulatorem sprzedawana przez FBA Polska firma sprowadza lampkę spoza UE i sprzedaje ją przez FBA w Polsce i Niemczech. Musi ocenić polskie obowiązki dla sprzętu, baterii i opakowań, a do tego wymagania niemieckie. Dane trzeba aktualizować przy każdej zmianie produktu lub dostawcy. Dane do zebrania przed raportem Podmiot sprzedający, kraj docelowy, data i model realizacji (FBA/FBM). SKU lub ASIN powiązane ze specyfikacją produktu. Wagi opakowań według materiałów. Kategoria i waga sprzętu. Dane baterii. Rejestracje, umowy i potwierdzenia złożenia. Dowody korekt i zapis, kto za co odpowiada. Częste pytania sprzedawców Czy FBA oznacza, że EPR załatwia Amazon? Nie. Logistyka nie przenosi obowiązków producenta. Czy jeden numer BDO wystarczy w całej UE? Nie. BDO dotyczy Polski. Każdy kraj ma własny rejestr. Czy małe baterie się liczą? Tak, także te wbudowane w urządzenia. Czy spóźniona rejestracja kasuje wcześniejsze obowiązki? Nie. Zaległe obowiązki pozostają. Jak pomaga EPRPilot EPRPilot porządkuje dane o produktach, opakowaniach, rejestracjach i terminach według kraju i strumienia, także dla sprzedaży przez Amazon. Nie zastępuje oceny prawnej. Jeśli chcesz omówić swój model sprzedaży, umów konsultację . Stan na 6 października 2026 r. Źródła: portal BDO, komunikat Amazon z 30 lipca 2025 r. o bateriach, ustawa o odpadach z 14 grudnia 2012 r., ustawa o gospodarce opakowaniami i odpadami opakowaniowymi, ustawa o zużytym sprzęcie elektrycznym i elektronicznym, PPWR (UE) 2025/40, rozporządzenie bateryjne (UE) 2023/1542. Czy wystawisz deklarację zgodności w 10 dni? Zobacz, jak EPRPilot porządkuje dane o opakowaniach, dostawcach i dokumentach PPWR oraz rejestracje EPR w 27 krajach UE. Umów demo Moduł PPWR Artykuł ma charakter informacyjny i nie stanowi porady prawnej. Sprawdź aktualny stan przepisów przed podjęciem decyzji.",
+  "url": "https://eprpilot.com/blog/amazon-polska-epr-bdo-opakowania-weee-baterie-2026.html"
+ },
+ {
+  "id": "blog-pl-epr-czechy-slowacja-opakowania-weee-baterie",
+  "type": "article",
+  "lang": "pl",
+  "title": "EPR w Czechach i na Słowacji: opakowania, WEEE i baterie przed pierwszą sprzedażą",
+  "summary": "Sprzedajesz do Czech lub Słowacji? EKO-KOM, OZV, upoważniony przedstawiciel z art. 45 PPWR, WEEE, baterie, małe ilości, dane do raportów i checklista przed startem.",
+  "text": "← Wszystkie wpisy Przetłumaczony sklep, ceny w koronach lub euro i umowa z kurierem to za mało, żeby sprzedawać do Czech czy Słowacji. Sprzedaż transgraniczna może sprawić, że to Ty odpowiadasz za opakowania i produkty, które staną się odpadami w tych krajach. Warto to ustalić przed pierwszą wysyłką. Zacznij od modelu sprzedaży Producent w rozumieniu przepisów EPR to nie zawsze wytwórca. Może nim być importer, pierwszy dostawca w danym kraju albo zagraniczny sprzedawca wysyłkowy. Definicje różnią się też dla opakowań, WEEE i baterii. Rozpisz, kto sprzedaje, kto odbiera, kto importuje, kto dodaje opakowanie wysyłkowe i czy kupujący odsprzedaje produkt, czy go używa. Magazyn, marketplace czy dystrybutor nie rozstrzygają tego automatycznie. B2B nie jest automatycznie zwolnione : firma kupująca na własne potrzeby może być użytkownikiem końcowym, a PPWR wyróżnia profesjonalnych użytkowników końcowych. Opakowania w Czechach Podstawą jest ustawa nr 477/2001 Sb. Najczęstsza droga to umowa z autoryzowaną organizacją EKO-KOM . Obejmuje ona odbiór i odzysk opakowań, ale nie elektronikę ani baterie. EKO-KOM opublikował nowe metodyki raportowania obowiązujące od 12 sierpnia 2026 r., w tym sposób ustalania zobowiązanego producenta i zaktualizowany wzór kwartalnego zestawienia. Puste opakowania serwisowe, transportowe i z produkcji pierwotnej mogą być rozliczane inaczej niż towary detaliczne w opakowaniach. Potwierdź to z organizacją lub przedstawicielem. Opakowania na Słowacji Podstawą jest ustawa nr 79/2015 Z.z. o odpadach. Rejestrację trzeba zakończyć przed wprowadzeniem opakowań na słowacki rynek. Obowiązki zbiorowe realizuje OZV, czyli organizacja odpowiedzialności producentów. Umowa z OZV nie dowodzi jednak, że rejestracja jest zakończona. Sprawdź pełnomocnictwo upoważnionego przedstawiciela, objęte strumienie, kto odpowiada za raporty i jak potwierdzono rejestrację. Pełnomocnictwo dla opakowań nie obejmuje automatycznie WEEE ani baterii. Zagraniczna sprzedaż wysyłkowa Zgodnie z art. 45 ust. 3 PPWR producent z siedzibą w innym kraju, który sprzedaje bezpośrednio użytkownikom końcowym (także profesjonalnym), musi ustanowić upoważnionego przedstawiciela w państwie, w którym pierwszy raz wprowadza towar na rynek. Oceń tę potrzebę osobno dla Czech i dla Słowacji. Doradca podatkowy, operator logistyczny czy przedstawiciel VAT zwykle nie ma pełnomocnictwa EPR. Propozycje uproszczeń w zakresie przedstawicielstwa to nie są zwolnienia prawne. Małe ilości Krajowe ulgi dla małych ilości różnią się zakresem i warunkami. Mogą znosić część obowiązków finansowych lub raportowych, ale nie rejestrację, ewidencję ani wymagania zgodności. Nie przenoś czeskich zasad na Słowację i nie zakładaj, że dziesięć paczek jest zwolnionych. Zapisuj materiał i wagę od pierwszej wysyłki , żeby sprawdzić, czy jakakolwiek ulga w ogóle ma zastosowanie. WEEE W Czechach obowiązuje ustawa nr 542/2020 Sb. o produktach wycofanych z eksploatacji, a na Słowacji ustawa o odpadach. Udział w systemie opakowaniowym nie obejmuje obowiązków dla elektroniki. Według dyrektywy WEEE sprzedawca z jednego państwa UE, który sprzedaje sprzęt na odległość użytkownikom w innym, musi ustanowić tam upoważnionego przedstawiciela. Sprzęt klasyfikuje się według kategorii, liczby sztuk i wagi urządzenia. Nie raportuj wagi brutto paczki jako wagi sprzętu. Baterie Baterie w produktach nadal podlegają EPR. Stosuje się rozporządzenie (UE) 2023/1542, którego rozdział o zużytych bateriach (rejestracja producentów i zasady EPR) obowiązuje od 18 sierpnia 2025 r. Sprawdź rejestrację na każdym rynku oraz wymóg upoważnionego przedstawiciela z art. 56 dla sprzedawców wysyłkowych. Zapisuj kategorię, chemię, wagę i liczbę baterii. EPR dla baterii to coś innego niż paszport baterii. Paszport od 18 lutego 2027 r. dotyczy baterii LMT, przemysłowych powyżej 2 kWh i do pojazdów elektrycznych, a nie małych baterii przenośnych sprzedawanych online. Przykład: jedna lampka, dwa kraje, trzy strumienie Polski sklep internetowy sprzedaje lampkę z akumulatorem bezpośrednio klientom w Czechach i na Słowacji. Każda sztuka ma pudełko i wkładkę, a każde zamówienie karton wysyłkowy i papierowy wypełniacz. WEEE Lampka jako sprzęt elektryczny, osobno w każdym kraju. Baterie Wbudowany akumulator w ramach EPR dla baterii. Opakowania Każdy komponent osobno. Odpowiedzialność za karton wysyłkowy potwierdź oddzielnie, zwłaszcza gdy dostarcza go fulfilment. Mapa to 2 rynki × 3 strumienie = 6 obszarów , dla których potrzebujesz dowodów. Ogólne oświadczenie „zgodni z EPR w UE” nie jest takim dowodem. Dane do raportów 1000 paczek z 180 g tektury, 12 g folii i 25 g wypełniacza daje 180 kg, 12 kg i 25 kg. Suma 217 kg nie zastępuje rozbicia na materiały. 180 kg tektura 12 kg folia 25 kg papier ≠ 217 kg jedna liczba to za mało Przechowuj: SKU, kraj docelowy, datę sprzedaży i liczbę sztuk na każdy rynek. Komponenty opakowania (pudełko, etykieta, folia, wkładka, koperta, wypełniacz) z materiałem i wagą. Kategorię sprzętu i wagę do raportu. Kategorię, chemię, wagę i liczbę baterii, także wbudowanych. Odpowiedzialnego producenta, przedstawiciela, organizację, potwierdzenie rejestracji i umowę dla każdego rynku i strumienia. Udokumentowane korekty za zwroty, anulacje i zmiany specyfikacji. Koszty i terminy Koszty mogą obejmować opłaty rejestracyjne lub administracyjne, wynagrodzenie przedstawiciela, minimalne opłaty umowne i składki zależne od materiału, kategorii lub ilości. Zapytaj, czy każdy strumień jest wyceniany osobno. Rozliczenia VAT czy OSS nie zastępują obowiązków środowiskowych. EKO-KOM raportuje kwartalnie , inne organizacje mogą mieć inne harmonogramy. Zbuduj kalendarz per kraj i strumień, nie stosuj wszędzie polskiego terminu z BDO i ustal wewnętrzne terminy weryfikacji danych z dużym wyprzedzeniem. A co z PPWR? Rozporządzenie (UE) 2025/40 stosuje się co do zasady od 12 sierpnia 2026 r. Ujednolica zasady dla opakowań, ale nie tworzy jednego unijnego konta EPR . Potrzebujesz zarówno krajowych dowodów EPR, jak i dokumentacji zgodności opakowań: informacji technicznych, oceny zgodności i deklaracji zgodności UE. Umowa z organizacją odzysku nie dowodzi zgodności. Wiele przepisów ma późniejsze terminy lub zależy od aktów wykonawczych, w tym cele projektowe na 2030 r. i przyszłe oznakowanie. Checklista przed startem sprzedaży do Czech i Słowacji Rozpisz sprzedaż bezpośrednią, profesjonalnych użytkowników końcowych, dystrybutorów i fulfilment. Ustal odpowiedzialnego producenta dla każdego rynku i strumienia. Potwierdź wymogi rejestracji i przedstawiciela przed startem. Sprawdź zakres systemu zbiorowego i zdobądź dowód rejestracji. Udokumentuj ulgę dla małych ilości zamiast ją zakładać. Uzupełnij dane SKU dla produktów, sprzętu, baterii i opakowań. Przypisz terminy raportów, osoby odpowiedzialne i daty przeglądu. Przejrzyj dokumentację PPWR oraz obowiązki odbioru i informowania klientów. Jak pomaga EPRPilot EPRPilot zbiera w jednym miejscu dane o opakowaniach, kartoteki produktów, rejestracje w krajach, dokumenty i terminy. Wspiera zarówno procesy krajowe, jak i dokumentację PPWR. Nie zastępuje wymaganego upoważnionego przedstawiciela, umowy z organizacją ani oceny prawnej. Najpierw ustal swoją rolę producenta, a potem zakres rejestracji, bo nawet czyste dane nie naprawią rejestracji na złą rolę. Jeśli potrzebujesz pomocy z modelem sprzedaży, umów konsultację . Stan na 6 października 2026 r. Źródła: strony EKO-KOM o PPWR i obowiązkach ustawowych, ustawa nr 79/2015 Z.z. (Slov-Lex), PPWR (art. 3, 44, 45), dyrektywa WEEE 2012/19/UE (art. 3, 17), rozporządzenie bateryjne (UE) 2023/1542 (art. 55, 56, 77, 96). Czy wystawisz deklarację zgodności w 10 dni? Zobacz, jak EPRPilot porządkuje dane o opakowaniach, dostawcach i dokumentach PPWR oraz rejestracje EPR w 27 krajach UE. Umów demo Moduł PPWR Artykuł ma charakter informacyjny i nie stanowi porady prawnej. Sprawdź aktualny stan przepisów przed podjęciem decyzji.",
+  "url": "https://eprpilot.com/blog/epr-czechy-slowacja-opakowania-weee-baterie.html"
+ },
+ {
+  "id": "blog-pl-epr-polska-2026-bdo-opakowania-weee-baterie",
+  "type": "article",
+  "lang": "pl",
+  "title": "EPR w Polsce 2026: BDO, opakowania, WEEE i baterie. Co musi wiedzieć sprzedawca",
+  "summary": "Kto musi być w BDO, ile kosztuje rejestracja (200/800 zł), jak raportować opakowania według materiałów, próg de minimis 1 Mg, termin 15 marca, WEEE, baterie i różnica między EPR a PPWR.",
+  "text": "← Wszystkie wpisy Brak magazynu, biura czy spółki w Polsce nie zwalnia z polskich obowiązków EPR. Jeden produkt może uruchomić kilka obowiązków naraz, a od 12 sierpnia 2026 r. PPWR dokłada kolejną warstwę wymagań dla opakowań. Oto co musi wiedzieć każdy, kto sprzedaje na polski rynek. Czym jest EPR w Polsce Producenci, którzy wprowadzają na polski rynek określone produkty lub towary w opakowaniach, mogą musieć finansować zbiórkę, recykling lub odzysk, prowadzić ewidencję i raportować dane. Nie ma jednego „polskiego numeru EPR”, który obejmuje wszystko. Zakres zależy od produktu i roli firmy w łańcuchu dostaw. Obowiązki dotyczą m.in. opakowań, sprzętu elektrycznego i elektronicznego (WEEE), baterii i akumulatorów , a także wybranych produktów, takich jak opony, oleje czy niektóre jednorazowe wyroby z tworzyw. Centralnym rejestrem jest BDO, czyli Baza danych o produktach i opakowaniach oraz o gospodarce odpadami. Kto musi się zarejestrować w BDO Kluczowe pytanie brzmi: kto wprowadza produkt lub opakowanie na polski rynek , a nie gdzie firma ma siedzibę. W grę wchodzą polscy producenci, importerzy spoza UE, firmy z nabyciem wewnątrzwspólnotowym, właściciele marek oraz zagraniczni sprzedawcy online i z marketplace’ów, którzy wysyłają bezpośrednio do polskich klientów. Sam fakt sprzedaży przez marketplace lub sklep internetowy nie przesądza o odpowiedzialności. Trzeba ocenić rzeczywisty model sprzedaży i logistyki. Przykład: sklep internetowy z elektroniką Niemiecka firma sprzedaje polskiemu konsumentowi lampkę LED z wbudowanym akumulatorem. Lampka jest w kartonie z folią, a całość w dodatkowym kartonie wysyłkowym. Z jednej sprzedaży wynikają cztery obszary obowiązków : WEEE Lampka to sprzęt elektryczny. Baterie Wbudowany akumulator to osobny strumień. Opakowanie produktu Karton i folia. Opakowanie wysyłkowe Dodatkowy karton też jest opakowaniem do zaraportowania. Rejestracja w BDO to dopiero początek Rejestracja daje numer BDO, ale nie oznacza spełnienia wszystkich obowiązków. Wpis musi obejmować właściwe rodzaje działalności i strumienie . Firma, która ma opakowania, elektronikę i baterie, może potrzebować wpisów w kilku obszarach. Ile kosztuje rejestracja w BDO w 2026 r. mikroprzedsiębiorca 200 zł opłaty rocznej. pozostałe firmy 800 zł opłaty rocznej. Opłata roczna jest taka sama co roku i co do zasady płatna do końca lutego. W roku, w którym zapłacono opłatę rejestrową, nie płaci się dodatkowo rocznej. Opłata BDO to jednak nie cały koszt. Zależnie od strumienia dochodzą organizacja odzysku, recykling, kampanie edukacyjne, obowiązki zbiórki lub opłaty produktowe. EPR dla opakowań w Polsce Raportuje się opakowania produktowe, zbiorcze, transportowe i wysyłkowe z e-commerce. Łączna waga paczki nie wystarczy. Dane trzeba rozbić na materiały : papier i tektura, tworzywa sztuczne, szkło, stal, aluminium, drewno. 180 g tektura 12 g folia 25 g wypełniacz papierowy 3 pozycje osobno w raporcie Przy tysiącach zamówień takie rozbicie w arkuszach szybko staje się nie do opanowania. Czy mała ilość opakowań zwalnia z obowiązków? W Polsce działa mechanizm de minimis dla małych ilości opakowań, z progiem 1 Mg (1 tony) rocznie . To nie jest ogólne zwolnienie z EPR. Ulga w części obowiązków finansowych nie musi znosić rejestracji, ewidencji ani raportowania, a skorzystanie z pomocy de minimis wymaga spełnienia formalnych warunków. Jakie dane zbierać Dobre raportowanie zaczyna się długo przed terminem i łączy dane sprzedażowe z kartoteką produktów i opakowań: Identyfikacja produktu lub SKU i rynek sprzedaży. Liczba sprzedanych sztuk. Komponenty opakowania i materiał każdego z nich. Waga każdego komponentu. Właściwa kategoria EPR oraz dane specyficzne dla WEEE i baterii. Termin raportu: 15 marca Roczne sprawozdanie o produktach, opakowaniach i gospodarowaniu odpadami składa się elektronicznie w BDO. Standardowy termin to 15 marca za poprzedni rok kalendarzowy . Złożenie raportu nie zawsze kończy sprawę: osobne terminy mogą dotyczyć opłat, dokumentów od organizacji odzysku i obowiązków dla poszczególnych strumieni. WEEE w Polsce Firmy wprowadzające sprzęt elektryczny lub elektroniczny muszą osobno ocenić obowiązki WEEE. Kluczowe pytania: czy produkt spełnia definicję sprzętu i kto wprowadza go na rynek. Raport może wymagać przypisania właściwej kategorii sprzętu i podania wagi. Sprzedaż małych urządzeń online nie daje automatycznie zwolnienia . Baterie jako osobny strumień Bateria wbudowana w urządzenie nadal jest osobną pozycją zgodności. Baterie to własny strumień EPR, więc jedno SKU może pojawić się jednocześnie w danych WEEE, bateryjnych i opakowaniowych. Rośnie znaczenie unijnego rozporządzenia 2023/1542 w sprawie baterii, a Polska dostosowuje swoje przepisy. Sprawdź aktualną procedurę dla swojego modelu sprzedaży i rodzaju baterii. EPR i PPWR to dwie różne warstwy PPWR · rozporządzenie (UE) 2025/40 Dotyczy samego opakowania: dokumentacja techniczna, deklaracja zgodności, projekt, substancje, a później recyklingowalność i oznakowanie. Stosowane od 12 sierpnia 2026 r. polski EPR Rejestracja, ewidencja, raportowanie i finansowanie dla opakowań wprowadzonych na polski rynek. PPWR nie znosi krajowych obowiązków EPR. Ten sam karton, butelka czy koperta wysyłkowa podlega obu warstwom . Checklista przed sprzedażą w Polsce Ustal, które produkty są objęte obowiązkami i kto wprowadza je na polski rynek. Oceń osobno opakowania, WEEE i baterie. Potwierdź wymagany zakres wpisu w BDO. Zbuduj dane produktowe i opakowaniowe na poziomie SKU. Połącz te dane z rzeczywistą sprzedażą do Polski, zanim policzysz ilości i raporty. Jak pomaga EPRPilot Najtrudniejszy rzadko jest jeden formularz. Trudne jest zarządzanie setkami lub tysiącami SKU na kilku rynkach, z których każdy wymaga innych danych. EPRPilot łączy dane produktowe, sprzedażowe i zgodności, przypisuje produkty do strumieni EPR, przechowuje dane o opakowaniach, śledzi ilości i terminy oraz przygotowuje dane do krajowych raportów. Polskie BDO staje się częścią jednego procesu EPR w całej UE, a nie arkuszem budowanym od nowa co roku. Najważniejsze Pytaj nie tylko, czy masz numer BDO, ale czy wiesz, za które produkty i opakowania odpowiadasz w Polsce , i czy potrafisz odtworzyć te dane w raporcie. Numer rejestrowy to dopiero początek. Zgodność zależy od dokładnych danych. Czy wystawisz deklarację zgodności w 10 dni? Zobacz, jak EPRPilot porządkuje dane o opakowaniach, dostawcach i dokumentach PPWR oraz rejestracje EPR w 27 krajach UE. Umów demo Moduł PPWR Artykuł ma charakter informacyjny i nie stanowi porady prawnej. Sprawdź aktualny stan przepisów przed podjęciem decyzji.",
+  "url": "https://eprpilot.com/blog/epr-polska-2026-bdo-opakowania-weee-baterie.html"
+ },
+ {
+  "id": "blog-pl-epr-ppwr-marketplace-blokady-ofert",
+  "type": "article",
+  "lang": "pl",
+  "title": "EPR i PPWR na marketplace’ach: gdzie naprawdę nadchodzą blokady ofert",
+  "summary": "Amazon, TikTok Shop, Zalando, eBay, Kaufland, Allegro i inni: kto już blokuje oferty bez numeru EPR, kto się przygotowuje i co zrobić przed art. 45 PPWR.",
+  "text": "← Wszystkie wpisy Od 12 sierpnia 2026 r., gdy zaczęło obowiązywać PPWR, marketplace’y stały się jednym z najbardziej widocznych miejsc egzekwowania EPR w europejskim e-commerce. Amazon usuwa oferty bez numerów rejestrowych, TikTok Shop dezaktywuje niezgodne produkty, a Zalando wyznaczyło datę blokady asortymentu partnerów. Platformy są jednak na różnych etapach. Najważniejsza lekcja: brak blokady dziś nie oznacza braku obowiązku jutro. Trzy poziomy gotowości marketplace’ów Poziom 1 · egzekwowanie Amazon, TikTok Shop i w wybranych obszarach Zalando. Brak danych już teraz może kosztować sprzedaż. Poziom 2 · wdrażanie Kaufland, eBay, bol.com i Zalando na kolejnych rynkach. Platformy zbierają dane, budują walidację lub zapowiadają konsekwencje. Poziom 3 · przygotowanie Allegro, eMAG i wiele innych. Automatyczną weryfikację ograniczają głównie krajowe rejestry, ale mechanizmy powstają. Amazon: najdalej posunięte egzekwowanie Amazon rozwija mechanizmy EPR od lat, więc PPWR nie wymagało budowania wszystkiego od zera. Numery EPR (ERN) wpisuje się w sekcji Regulatory Compliance w Seller Central. Pole pojawia się tylko dla rynków, na których uruchomiono weryfikację. W przypadku Polski Amazon poinformował sprzedawców, że muszą uzyskać numer dla opakowań, a brak rejestracji przed 12 sierpnia może skończyć się usunięciem ofert. Nie czekaj na ostrzeżenie w Account Health. Jeśli jesteś producentem w rozumieniu EPR, zarejestruj się niezależnie od tego, czy pole jest już aktywne . TikTok Shop: brak numeru wyłącza ofertę Według instrukcji TikTok Shop producent opakowań musi mieć ważny numer EPR na każdym wymaganym rynku, ustanowić upoważnionego przedstawiciela tam, gdzie to konieczne, przystąpić do organizacji odzysku i przesłać numer przez Seller Center. Niezgodne oferty mogą zostać dezaktywowane i wracają dopiero po zatwierdzeniu poprawnego numeru. To wyraźne przejście na łańcuch: numer → weryfikacja → zgoda na sprzedaż . Zalando: konkretna data blokady, 1 stycznia 2027 Zalando Partner należy do najbardziej przejrzystych platform. Dane EPR przekazuje się przez zDirect. Najpierw dotyczyło to Niemiec, Francji i Hiszpanii, a od 12 sierpnia 2026 r. także Polski, Belgii, Danii, Finlandii, Węgier, Litwy, Słowacji i Szwecji. Zalando zapowiada, że partnerzy, którzy do 1 stycznia 2027 r. nie prześlą wymaganych danych EPR, będą mieli zablokowany asortyment. Sprzedawcy mody mogą mieć też obowiązki dla baterii, tekstyliów i innych strumieni. Produkty z bateriami Zalando już teraz blokuje do czasu weryfikacji zgodności. eBay i Kaufland: infrastruktura gotowa eBay · oferty mogą zniknąć Numer EPR dla opakowań dodaje się na poziomie konta: kraj, kategoria Packaging, numer i potwierdzenie. Przy braku lub błędnym numerze oferty mogą być ukryte. Masowych blokad PPWR we wszystkich krajach UE na wrzesień 2026 nie da się jednak potwierdzić. Kaufland · sekcja EPR Compliance Sprzedawca wybiera kraj i kategorię EPR, wpisuje numer i wysyła go do weryfikacji. Kaufland powołuje się na art. 45 PPWR. Numer dla opakowań jest dziś wymagany w Niemczech, Polsce, Francji i Hiszpanii. Uwaga przy Kauflandzie: brak pola w panelu dla danego kraju nie oznacza braku obowiązku EPR w tym kraju. bol.com, Allegro i eMAG: przygotowania, jeszcze bez blokad bol.com Nie prowadzi jeszcze masowej weryfikacji rejestracji PPWR, bo brakuje systemu do sprawdzania. W sierpniu 2026 zapowiedział jednak kontrole w przyszłości i możliwy wpływ na sprzedaż. Allegro Brak numeru EPR na razie nie blokuje sprzedaży, bo kraje UE dostosowują rejestry. Docelowo Allegro ma sprawdzać numer dla każdego kraju wysyłki przed włączeniem sprzedaży. We wrześniu 2026 rozpoczęło współpracę z Interzero przy EPR dla eksporterów. eMAG Obejmuje rejestrację producenta, realizację EPR, upoważnionego przedstawiciela i przekazanie danych. Na razie wystarcza samodeklaracja, a weryfikacja będzie rozszerzana wraz z uruchamianiem rejestrów. Temu, AliExpress, OTTO OTTO od dawna wymaga m.in. udziału w systemie VerpackG i rejestracji w ZSVR, ale brak mocnego potwierdzenia nowych blokad opartych na PPWR. Doniesienia o blokadach na Temu i AliExpress traktuj ostrożnie, dopóki nie pojawi się wiarygodne źródło. Art. 45 PPWR: dlaczego masowa weryfikacja nadchodzi Art. 45 PPWR zobowiązuje platformy do zbierania informacji o producentach i ich zgodności z EPR. UE pracuje nad zharmonizowanym formatem rejestrów producentów, a dokumenty wykonawcze Komisji zakładają automatyczną, masową weryfikację numerów rejestrowych. Część marketplace’ów nie blokuje jeszcze ofert, bo brakuje krajowej infrastruktury , a nie dlatego, że nie chce. Gdy rejestry zaczną ze sobą współpracować, egzekwowanie może gwałtownie przyspieszyć. Co powinien zrobić sprzedawca transgraniczny Najczęstszy błąd to myślenie: „marketplace mnie nie zablokował, więc nic nie muszę”. Obowiązek prawny i egzekwowanie przez platformę to dwie różne rzeczy. Obowiązek może istnieć, zanim platforma będzie w stanie go sprawdzić. Zbuduj mapę kraj × marketplace × strumień EPR i dla każdego rynku odpowiedz: Czy firma jest producentem w rozumieniu EPR/PPWR? Czy wymagana jest rejestracja EPR dla opakowań? Czy potrzebny jest upoważniony przedstawiciel? Czy produkt podlega też WEEE, bateriom, tekstyliom lub innemu strumieniowi? Jakie numery już masz i gdzie trzeba je zgłosić? Czy marketplace już weryfikuje numer? Które opakowania raportujesz: produktowe, zbiorcze, wysyłkowe? Czy masz dane o materiałach, wagach i dokumentację PPWR? Kto odpowiada za opakowanie wysyłkowe w fulfilmencie? Zalando informuje, że w ZFS bierze odpowiedzialność za dodawane przez siebie opakowanie wysyłkowe, a za opakowanie produktu nadal odpowiada właściwy producent EPR. Podobny podział opisuje bol.com dla Logistics via bol. Wniosek: dane muszą rozdzielać opakowanie produktu od opakowania fulfilmentowego , a sprzedawca musi wiedzieć, kto raportuje który element w którym kraju. Jak pomaga EPRPilot EPRPilot daje jedną mapę rejestracji i terminów dla wszystkich rynków UE. Dane o opakowaniach są prowadzone na poziomie komponentów i powiązane z każdym SKU i krajem. Raporty powstają per rynek, więc numery EPR możesz sprawdzić, przekazać i śledzić, gdy marketplace o nie poprosi. Najważniejsze Pytanie nie brzmi „czy marketplace blokuje?”, tylko „kiedy zacznie?”. EPR staje się technicznym warunkiem dostępu do rynku: bez ważnego numeru nie ma widoczności ofert. Rejestracje, przedstawicieli, raportowanie i dane o opakowaniach planuj przed wejściem na nowy rynek, a nie w reakcji na ostrzeżenie platformy. Czy wystawisz deklarację zgodności w 10 dni? Zobacz, jak EPRPilot porządkuje dane o opakowaniach, dostawcach i dokumentach PPWR oraz rejestracje EPR w 27 krajach UE. Umów demo Moduł PPWR Artykuł ma charakter informacyjny i nie stanowi porady prawnej. Sprawdź aktualny stan przepisów przed podjęciem decyzji.",
+  "url": "https://eprpilot.com/blog/epr-ppwr-marketplace-blokady-ofert.html"
+ },
+ {
+  "id": "blog-pl-eudr-polska-kary-obowiazki",
+  "type": "article",
+  "lang": "pl",
+  "title": "EUDR w Polsce: kary do 4% obrotu. Jakie są obowiązki?",
+  "summary": "Kogo dotyczy EUDR, co zmienia projekt ustawy UC101, jak wygląda due diligence i DDS, które organy będą kontrolować, jakie kary grożą i od kiedy przepisy obowiązują.",
+  "text": "← Wszystkie wpisy Wiele firm wciąż nie wie, że może podlegać EUDR. Obowiązki dotyczą nie tylko importerów drewna, kawy i kakao, ale też producentów i dystrybutorów mebli, wytwórców wyrobów papierowych, sprzedawców produktów sezonowych czy producentów komponentów z drewna lub kauczuku. Polski projekt ustawy (UC101) nie dodaje nowych obowiązków merytorycznych. Buduje krajowy system egzekwowania: kto kontroluje, jak i jakie grożą kary. EUDR to nie tylko importerzy drewna EUDR, czyli rozporządzenie (UE) 2023/1115, obejmuje bydło, kakao, kawę, olej palmowy, kauczuk, soję i drewno oraz wybrane produkty z nich wytworzone. drewno meble, papier kauczuk opony, uszczelki kawa · kakao żywność soja · olej palmowy pasze, kosmetyki bydło skóry, mięso O zakresie decyduje załącznik I i kod CN produktu , a nie sam fakt, że w produkcie jest dany surowiec. Firmy meblarskie, papiernicze, e-commerce i produkcyjne często podlegają EUDR, nie wiedząc o tym. Pierwszy krok: spisz produkty, zapisz ich kody CN i porównaj je z aktualnym załącznikiem I. Co zmienia polski projekt ustawy UC101 Projekt nie tworzy nowych obowiązków, bo te wynikają wprost z rozporządzenia UE. Ustanawia krajowe egzekwowanie: organy kontroli, procedury i kary. Projekt był kilka razy zmieniany. Wersje w Rządowym Centrum Legislacji pojawiały się w kwietniu, lipcu i sierpniu 2026 r., więc szczegóły kar i procedur mogą się jeszcze zmienić przed skierowaniem do Sejmu. Czekanie na ostateczny tekst jest ryzykowne , bo zbieranie danych od dostawców i budowa ewidencji trwają miesiącami. Jakie są obowiązki: due diligence Przed wprowadzeniem produktu na rynek lub jego eksportem firma objęta EUDR musi przeprowadzić proces należytej staranności. Składa się on z czterech kroków: 01 · informacje Dane o produkcie i dostawcy, w tym o pochodzeniu surowców. 02 · ocena ryzyka Ryzyko wylesiania, degradacji lasów i naruszenia prawa kraju produkcji. 03 · ograniczenie ryzyka Działania tam, gdzie ocena wskazuje możliwą niezgodność. 04 · oświadczenie DDS Złożenie oświadczenia o należytej staranności w systemie informacyjnym EUDR. Kto będzie kontrolował firmy w Polsce Projekt dzieli kompetencje między kilka organów: Inspekcja Weterynaryjna Bydło. IJHARS Inspekcja Jakości Handlowej Artykułów Rolno-Spożywczych: kakao, kawa, soja i olej palmowy. Inspekcja Ochrony Środowiska Drewno i kauczuk. Jedna firma może więc mieć do czynienia z różnymi organami, zależnie od strumienia produktów. Importer z szerokim asortymentem powinien wiedzieć, który organ odpowiada za który strumień. Jakie kary grożą za niezgodność Projekt przewiduje sankcje, które pokazują, że egzekwowanie nie skończy się na grzywnach: Kary administracyjne liczone od obrotu. Kara maksymalna co najmniej 4% rocznego obrotu w UE . Rozporządzenie wymaga tego dla osób prawnych, a ustawa określi sposób liczenia obrotu. Zajęcie i konfiskata towarów. Zakaz wprowadzania produktów na rynek. Zakaz eksportu. Czasowe wykluczenie z zamówień publicznych. Czasowe odebranie dostępu do dotacji i środków publicznych. Czy Twoja firma podlega EUDR? Sprawdź, czy Twoje produkty lub import zawierają drewno, papier, kauczuk, kawę, kakao, soję lub olej palmowy albo są z nich wytworzone. Dla każdej grupy produktów: Porównaj kody CN z załącznikiem I. Rozpisz dostawców i ustal, skąd pochodzą surowce w każdym przepływie. Określ swoją rolę: podmiot na początku łańcucha, podmiot dalszy czy handlowiec. Potwierdź datę stosowania dla wielkości firmy i rodzaju produktu. Zaplanuj dane od dostawców, ewidencję i dokumentację należytej staranności. Terminy: od kiedy EUDR obowiązuje 30.12.2026 · duże i średnie firmy Pełne stosowanie EUDR. 30.06.2027 · mikro i małe firmy Dla większości produktów. 30.12.2026 · wyjątek Mikro i małe firmy z produktami objętymi wcześniej EUTR zostają przy terminie 30 grudnia 2026 r. 30.12.2027 · nowe produkty Produkty dodane rozporządzeniem delegowanym, według wskazań Komisji. Sprawdź status firmy, konkretny produkt i przepisy przejściowe. Zbieranie geolokalizacji, ocena ryzyka i budowa ewidencji zwykle trwają miesiące, więc warto zacząć teraz. Jak przygotować się do EUDR w Polsce Pakiet EUDR od EPRPilot to gotowy zestaw dokumentów do uzupełnienia danymi firmy: Drzewko decyzyjne do ustalenia roli firmy. Procedura należytej staranności. List i kwestionariusz dla dostawców. Rejestr dostaw. Arkusz oceny ryzyka. Checklista gotowości do kontroli. Więcej odpowiedzi znajdziesz w naszym FAQ . Źródła: rozporządzenie (UE) 2023/1115 (EUR-Lex), projekt ustawy UC101 w Rządowym Centrum Legislacji, strona Ministerstwa Klimatu i Środowiska o wdrażaniu EUDR, strona Komisji Europejskiej o rolach, obowiązkach i terminach. Sprawdź aktualny status UC101, załącznik I i przepisy przejściowe dla swoich produktów. Czy wystawisz deklarację zgodności w 10 dni? Zobacz, jak EPRPilot porządkuje dane o opakowaniach, dostawcach i dokumentach PPWR oraz rejestracje EPR w 27 krajach UE. Umów demo Moduł PPWR Artykuł ma charakter informacyjny i nie stanowi porady prawnej. Sprawdź aktualny stan przepisów przed podjęciem decyzji.",
+  "url": "https://eprpilot.com/blog/eudr-polska-kary-obowiazki.html"
+ },
+ {
+  "id": "blog-pl-ppwr-deklaracje-dostawcow-co-jest-dowodem",
+  "type": "article",
+  "lang": "pl",
+  "title": "Deklaracje dostawców w PPWR: co naprawdę jest dowodem?",
+  "summary": "Ogólnofirmowy list „zgodny z PPWR” nie dowodzi zgodności opakowania. Co musi zawierać deklaracja zgodności UE (art. 39, załącznik VIII), czerwone flagi i o co prosić dostawcę.",
+  "text": "← Wszystkie wpisy Od 12 sierpnia 2026 r., gdy PPWR, czyli rozporządzenie (UE) 2025/40, zaczęło być stosowane, kupujący proszą dostawców o „deklarację PPWR” i dostają ogólnofirmowe PDF-y. Taki list nie dowodzi jednak, że konkretne opakowanie jest zgodne. Art. 39 ust. 2 wymaga, by deklaracja zgodności UE odpowiadała wzorowi z załącznika VIII, a ten wzór wskazuje konkretne opakowanie przez jego unikalną identyfikację. Skąd nagle tyle ogólnych „deklaracji PPWR”? Scenariusz jest zwykle ten sam. Właściciel marki lub dystrybutor dowiaduje się, że przepisy już obowiązują, i pisze do wszystkich dostawców. Dostawcy nie mają dokumentacji zgodności dla poszczególnych indeksów, więc odsyłają szybki list, że firma traktuje rozporządzenie poważnie. Kupujący odkłada list do segregatora i uznaje sprawę za załatwioną. W efekcie powstaje wrażenie zgodności , a żadne opakowanie nie ma dokumentacji. Organ nadzoru, dział compliance dużego klienta albo prawnicy w due diligence sprawdzają jednak teczkę indeks po indeksie. Czym jest deklaracja zgodności UE w PPWR To oświadczenie podmiotu odpowiedzialnego, złożone na jego wyłączną odpowiedzialność, że konkretne opakowanie spełnia wymagania rozporządzenia (UE) 2025/40. Sporządza się ją zgodnie z art. 39 według wzoru z załącznika VIII, a wspiera ją dokumentacja techniczna opisana w załączniku VII. Jedna deklaracja dotyczy jednego opakowania, nigdy całej firmy. List na papierze firmowym dotyczy firmy i nie dowodzi niczego o żadnym opakowaniu. Certyfikat marketingowy lub systemowy, np. „certyfikowane opakowanie zrównoważone”, opiera się na kryteriach danego systemu. Może co najwyżej zasilić Twoją dokumentację techniczną. Użytecznym dowodem jest tylko deklaracja dla konkretnego opakowania razem z danymi o materiałach, substancjach i recyklingowalności. Co powinna zawierać poprawna deklaracja Elementy wynikające ze wzoru w załączniku VIII: Unikalna identyfikacja opakowania: indeks, nazwa lub opis, który odpowiada temu, co kupujesz. Nazwa i adres podmiotu, który bierze odpowiedzialność. Pełne powołanie przepisu: rozporządzenie (UE) 2025/40, a nie „obowiązujące przepisy UE o opakowaniach”. Oświadczenie o zgodności tego opakowania, a nie o intencjach czy wartościach firmy. Miejsce, data i imiennie wskazany podpisujący. Data jest ważna, gdy opakowanie się zmienia. Czerwone flagi nie wystarczy Brak wskazania opakowania. Zakres „wszystkie nasze produkty”. Brak numeru rozporządzenia. Zamiast podpisu stopka marketingowa. prosty test Jeśli ten sam PDF mógłby trafić bez zmian do każdego klienta, to nie identyfikuje Twojego opakowania. Czy deklaracja dostawcy zastępuje Twoje obowiązki? Nie. Dokument od dostawcy to dowód wejściowy, a nie przeniesienie odpowiedzialności . Za zgodność odpowiada podmiot, który wprowadza opakowanie na rynek. Jeśli to Ty, sporządzasz własną deklarację opartą na własnej dokumentacji z załącznika VII. Od dostawców potrzebujesz danych, a nie zapewnień. Najważniejsze są trzy grupy danych: Skład Materiały i ich wagi dla każdego komponentu. Substancje · art. 5 M.in. limit 100 mg/kg dla ołowiu, kadmu, rtęci i chromu VI oraz zakaz celowo dodanych PFAS w opakowaniach do żywności. Projekt · art. 6 Dane konstrukcyjne, od których zależy ocena recyklingowalności. Więcej o limicie metali ciężkich piszemy we wpisie Limit metali ciężkich w PPWR . O co prosić dostawcę zamiast listu Proś per indeks opakowania lub SKU, a nie per firma. Proś o deklarację, która identyfikuje to opakowanie i odwołuje się do wzoru z załącznika VIII. Proś o dane źródłowe: skład materiałowy z wagami, informacje o substancjach z art. 5, dane projektowe istotne dla recyklingowalności. Zapisuj braki i nie akceptuj cichych zamienników. Drugi PDF na papierze firmowym to nie odpowiedź. Wpisz dokumentację zgodności per indeks jako warunek zakupu w umowie. Przechowuj rejestracje, deklaracje i dane razem, przypisane do indeksu opakowania. Jak pomaga EPRPilot EPRPilot przechowuje deklaracje, dowody od dostawców i dane techniczne dla każdego indeksu opakowania. Łączy je z Twoimi SKU i rynkami, więc dokumentację dla konkretnego opakowania przygotujesz szybko, gdy poprosi o nią klient albo inspektor. Czy wystawisz deklarację zgodności w 10 dni? Zobacz, jak EPRPilot porządkuje dane o opakowaniach, dostawcach i dokumentach PPWR oraz rejestracje EPR w 27 krajach UE. Umów demo Moduł PPWR Artykuł ma charakter informacyjny i nie stanowi porady prawnej. Sprawdź aktualny stan przepisów przed podjęciem decyzji.",
+  "url": "https://eprpilot.com/blog/ppwr-deklaracje-dostawcow-co-jest-dowodem.html"
+ },
+ {
+  "id": "blog-pl-ppwr-metale-ciezkie-100-ppm",
+  "type": "article",
+  "lang": "pl",
+  "title": "Limit metali ciężkich w PPWR: czy oświadczenie dostawcy „poniżej 100 ppm” wystarczy?",
+  "summary": "Jednostronicowe oświadczenie dostawcy, że opakowanie ma mniej niż 100 ppm metali ciężkich, często nie wystarczy do dokumentacji technicznej PPWR. Co musi zawierać i kiedy potrzebne jest badanie.",
+  "text": "← Wszystkie wpisy Dostawca przysyła jednostronicowe oświadczenie: „opakowanie zawiera mniej niż 100 ppm metali ciężkich”. Wygląda na załatwioną sprawę. W praktyce taki dokument często jest zbyt ogólny, żeby obronić dokumentację techniczną PPWR. Wyjaśniamy, czego wymaga limit, czego brakuje w typowym oświadczeniu i jak zebrać dowody, które przejdą kontrolę. Co dokładnie oznacza limit 100 ppm? PPWR utrzymuje limit znany z dyrektywy opakowaniowej: 100 mg/kg łącznie dla czterech metali, czyli ołowiu, kadmu, rtęci i chromu sześciowartościowego. To suma, a nie limit dla każdego metalu osobno. Jeśli ołów wynosi 60 mg/kg, a kadm 50 mg/kg, opakowanie przekracza limit, choć każdy wynik z osobna wygląda dobrze. Limit dotyczy opakowania i każdego jego komponentu . Zgodna butelka nie „uśrednia” niezgodnej zakrętki ani etykiety. Każdy element ocenia się oddzielnie. Pb ołów Cd kadm Hg rtęć Cr(VI) chrom sześciowartościowy Σ ≤ 100 mg/kg na komponent Jakich opakowań to dotyczy? Zakres PPWR jest szeroki: wszystkie opakowania wprowadzane na rynek UE, niezależnie od materiału i branży. Opakowania sprzedażowe, zbiorcze i transportowe, B2C i B2B. Spełnienie limitu 100 ppm nie oznacza jeszcze pełnej zgodności. Obok PPWR obowiązują m.in. ograniczenia REACH i przepisy o materiałach do kontaktu z żywnością, które mogą stawiać ostrzejsze warunki dla konkretnych substancji. Dlaczego samo „poniżej 100 ppm” to za mało Typowe oświadczenie ma kilka luk, które wychodzą dopiero przy kontroli albo pytaniu klienta: Nie wskazuje komponentu. „Nasze opakowania” to nie jest konkretna zakrętka w wersji 3 z barwnikiem X. Nie mówi, czy chodzi o sumę. Nie wiadomo, czy wynik dotyczy łącznej zawartości czterech metali, czy każdego osobno. Nie podaje podstawy. Brakuje informacji, czy to wynik badania, obliczenie z receptury, czy deklaracja „z doświadczenia”. Nie ma daty ani wersji. Dostawca zmienia surowiec, a oświadczenie z 2022 r. wciąż leży w segregatorze. Dokumentacja musi dać się powiązać z dokładnie tym komponentem , który trafia do Twojego opakowania. Co powinno zawierać dobre oświadczenie dostawcy Dane wystawcy i osoby, która podpisuje dokument. Dokładne oznaczenie komponentu: numer specyfikacji, indeks, wersja, ewentualnie partia. Jasną informację, że wynik dotyczy sumy Pb, Cd, Hg i Cr(VI), albo wyniki dla każdego metalu. Podstawę dowodową: raport z akredytowanego laboratorium albo udokumentowane obliczenie z receptury. Daty: wystawienia, badania i okres ważności. Zobowiązanie do informowania o zmianach surowca, dostawcy lub procesu. Język zrozumiały dla Twojego zespołu i gotowość udostępnienia dokumentów organom. Czy każdy komponent musi mieć badanie laboratoryjne? Nie. PPWR nie wymaga jednego badania dla każdego elementu. Rozsądne jest podejście oparte na ryzyku : wyższe ryzyko → badanie Surowce z recyklingu, intensywne pigmenty i farby, elementy z nadrukiem, metalowe okucia, komponenty od nowych lub niesprawdzonych dostawców. niższe ryzyko → dane z receptury Stabilne, pierwotne materiały o kontrolowanej recepturze, z historią wyników i umową o zgłaszaniu zmian. Cztery sytuacje z praktyki 01 · zakrętka z pierwotnego PP Receptura zamknięta, barwnik bez metali, dostawca od lat ten sam. Wystarczy oświadczenie z podstawą w recepturze i klauzulą o zmianach. Badanie okresowo, np. raz w roku. 02 · kolorowa skrzynka z recyklatu Recyklat może zawierać stare pigmenty z ołowiem lub kadmem. Tu potrzebne są badania partii i sprawdzenie, czy skrzynka korzysta z odstępstwa dla skrzynek i palet. 03 · etykieta papierowa z nadrukiem Papier zwykle nie jest problemem, ale farby i lakiery już tak. Poproś drukarnię o dane dla farb i o wynik dla gotowej etykiety. 04 · produkt private label spoza UE Często nikt nie ma pełnej listy komponentów. Jako właściciel marki możesz być producentem w rozumieniu PPWR, więc to Ty musisz zebrać dowody i wystawić deklarację. Wyjątki, które trzeba sprawdzić osobno Obecne odstępstwa, m.in. dla części opakowań szklanych oraz plastikowych skrzynek i palet w obiegu zamkniętym, obowiązują do czasu ich zmiany lub uchylenia. Komisja może aktami delegowanymi obniżyć limit albo zmienić odstępstwa. Przed oparciem się na wyjątku sprawdź jego aktualny status. Kto ponosi ostateczną odpowiedzialność? Dostawca dostarcza dowody, ale ocenę zgodności przeprowadza producent opakowania . To on przygotowuje dokumentację techniczną i wystawia deklarację zgodności UE. W modelu private label producentem może być właściciel marki. Importer musi sprawdzić, czy ta praca została wykonana. Dokumentację przechowuje się 5 lat dla opakowań jednorazowych i 10 lat dla opakowań wielokrotnego użytku. Checklista przed 12 sierpnia 2026 Rozbij każde opakowanie na komponenty: korpus, zamknięcie, etykieta, klej, farba, okucia. Przypisz do każdego komponentu dostawcę i numer specyfikacji. Zbierz dowody obejmujące sumę czterech metali. Uszereguj komponenty według ryzyka i zleć badania tam, gdzie są potrzebne. Dopisz do umów z dostawcami obowiązek zgłaszania zmian. Przechowuj dowody przy dokładnym indeksie i wersji komponentu. Sprawdź odstępstwa oraz wymagania REACH i kontaktu z żywnością. Jak pomaga EPRPilot W module PPWR każdy komponent ma swoją kartę: specyfikację, dostawcę, raporty z badań i oświadczenia, powiązane z opakowaniem i SKU. Gdy klient poprosi o deklarację zgodności, dane są już na miejscu, a deklaracja powstaje w kilka minut. Te same dane zasilają raporty EPR w każdym kraju. Czy wystawisz deklarację zgodności w 10 dni? Zobacz, jak EPRPilot porządkuje dane o opakowaniach, dostawcach i dokumentach PPWR oraz rejestracje EPR w 27 krajach UE. Umów demo Moduł PPWR Artykuł ma charakter informacyjny i nie stanowi porady prawnej. Sprawdź aktualny stan przepisów przed podjęciem decyzji.",
+  "url": "https://eprpilot.com/blog/ppwr-metale-ciezkie-100-ppm.html"
+ },
+ {
+  "id": "blog-pl-ppwr-obowiazki-importera-producent-spoza-ue",
+  "type": "article",
+  "lang": "pl",
+  "title": "Obowiązki importera w PPWR: co się zmienia, gdy producent jest spoza UE",
+  "summary": "Kupujesz od dostawcy z Chin, UK, Turcji lub USA? W PPWR jesteś importerem. Kto jest importerem, jakie ma obowiązki, kiedy staje się producentem i co z EPR.",
+  "text": "← Wszystkie wpisy Kupujesz zapakowane produkty od dostawcy z Chin, Wielkiej Brytanii, Turcji albo USA? W świetle PPWR jesteś wtedy importerem, a to oznacza, że duża część odpowiedzialności producenta spoczywa na Tobie. Rozporządzenie (UE) 2025/40 w sprawie opakowań i odpadów opakowaniowych (PPWR) stosuje się od 12 sierpnia 2026 r. Zastąpiło dyrektywę 94/62/WE i obowiązuje bezpośrednio, bez krajowych ustaw wdrażających, więc te same zasady działają we wszystkich 27 państwach członkowskich. Najwięcej zaskoczeń budzi podział ról: producent, upoważniony przedstawiciel, importer i dystrybutor. Gdy producent jest spoza UE, organ nadzoru rynku kontaktuje się właśnie z importerem. Kto jest importerem w rozumieniu PPWR Importer to osoba fizyczna lub prawna z siedzibą w UE, która jako pierwsza wprowadza na rynek UE opakowanie lub zapakowany produkt z państwa trzeciego. Profil działalności nie ma znaczenia. Jeśli sprowadzasz szampon w butelkach, to butelki, zakrętki, etykiety, kartony i folia na palecie są Twoimi opakowaniami. 01 · marka z produkcją w Azji Sprowadza gotowe produkty i sprzedaje je pod własną nazwą. 02 · dystrybutor lub hurtownia Kupuje bezpośrednio od dostawców spoza UE. 03 · sprzedawca online Sprowadza towar do centrum fulfilmentowego w UE. 04 · import komponentów Części przyjeżdżają w opakowaniach transportowych, które też podlegają PPWR. Twoje podstawowe obowiązki Zanim wprowadzisz opakowanie na rynek, musisz sprawdzić, czy producent spoza UE spełnił wymagania, i umieć to udowodnić: Potwierdź, że przeprowadzono ocenę zgodności i istnieje deklaracja zgodności UE wraz z dokumentacją techniczną. Sprawdź poprawne oznaczenie materiałów i etykiety do sortowania. Upewnij się, że dane producenta i importera są na opakowaniu lub w dokumentach towarzyszących. Przechowuj deklarację zgodności i dokumentację techniczną przez 5 lat i udostępniaj je na żądanie. Zadbaj, by magazynowanie i transport nie naruszały zgodności. Przy niezgodności podejmij działania naprawcze, wycofaj lub odzyskaj opakowania i poinformuj organy. Kiedy importer staje się producentem Działa tu zasada znana z innych przepisów produktowych UE. Przejmujesz pełne obowiązki producenta , jeśli wprowadzasz opakowanie pod własną nazwą lub znakiem towarowym albo zmieniasz już wprowadzone opakowanie w sposób, który wpływa na jego zgodność. Importerzy private label prawie zawsze są w tej sytuacji. Wtedy to Ty, a nie dostawca, odpowiadasz za dokumentację techniczną, ocenę zgodności, klasę recyklingowalności i dowody zawartości recyklatu. Więcej o tym piszemy we wpisie PPWR i private label . EPR na dokładkę: art. 44 i 45 Jako podmiot, który pierwszy wprowadza opakowanie na rynek danego kraju, importer jest tam też producentem w systemie EPR . To oznacza: Rejestracja Wpis do krajowego rejestru producentów. Upoważniony przedstawiciel Tam, gdzie kraj tego wymaga. Raporty roczne Ilość wprowadzonych opakowań według materiału i wagi. Opłaty Opłaty modulowane w zależności od rodzaju opakowania. Wszystko to osobno dla każdego kraju . Sprzedaż na 8 rynków UE to 8 rejestracji, 8 cenników i 8 kalendarzy raportowania, każdy z innymi terminami, jednostkami i kategoriami materiałów. Prośba o deklarację w 10 dni Pierwsza presja z PPWR przyjdzie raczej od klientów niż od inspektorów. Sieci handlowe i odbiorcy B2B dopisują do umów klauzule, które wymagają przekazania deklaracji zgodności w krótkim terminie, często 10 dni roboczych . Gdy dane od dostawców są rozproszone w mailach i arkuszach, dotrzymanie takiego terminu jest bardzo trudne. Checklista gotowości importera Przypisz każde SKU do komponentów opakowania, materiałów i wag. Zbierz oświadczenia dostawców, dowody zawartości recyklatu i dane o recyklingowalności. Ustal, która spółka w grupie jest importerem na każdym rynku. Potwierdź rejestracje EPR w każdym kraju sprzedaży. Zbuduj repozytorium, z którego deklarację zgodności przygotujesz w kilka dni, a nie tygodni. Dodaj klauzule PPWR do umów zakupowych z dostawcami spoza UE. Jak pomaga EPRPilot EPRPilot przechowuje dane o opakowaniach na poziomie komponentów, łączy je z każdym SKU i rynkiem, pilnuje rejestracji i terminów we wszystkich 27 państwach UE i generuje dokumentację gotową do audytu. Na prośbę klienta albo kontrolę odpowiadasz z jednego miejsca. Czy wystawisz deklarację zgodności w 10 dni? Zobacz, jak EPRPilot porządkuje dane o opakowaniach, dostawcach i dokumentach PPWR oraz rejestracje EPR w 27 krajach UE. Umów demo Moduł PPWR Artykuł ma charakter informacyjny i nie stanowi porady prawnej. Sprawdź aktualny stan przepisów przed podjęciem decyzji.",
+  "url": "https://eprpilot.com/blog/ppwr-obowiazki-importera-producent-spoza-ue.html"
+ },
+ {
+  "id": "blog-pl-ppwr-private-label-wlasciciel-marki-producent-opakowan",
+  "type": "article",
+  "lang": "pl",
+  "title": "PPWR i private label: kiedy Twoja marka staje się producentem opakowań",
+  "summary": "W PPWR producentem opakowania często jest właściciel marki, a nie fabryka. Role, umowy z dostawcami, wymagane dowody, przykłady i checklista dla private label.",
+  "text": "← Wszystkie wpisy Zlecenie produkcji nie oznacza zlecenia odpowiedzialności. W PPWR, czyli rozporządzeniu (UE) 2025/40, o tym, kto odpowiada za opakowanie, decyduje rola firmy i to, pod czyją nazwą lub znakiem towarowym opakowanie trafia na rynek. Faktura od fabryki tego nie przesądza. W wielu modelach private label producentem w rozumieniu przepisów jest właściciel marki. Fabryka nie zawsze jest producentem w świetle prawa Art. 3 ust. 1 pkt 13 PPWR definiuje producenta szeroko. Jest nim także ten, kto zleca zaprojektowanie lub wyprodukowanie opakowania albo zapakowanego produktu pod własną nazwą lub znakiem towarowym , nawet jeśli na opakowaniu widać też inną markę. Przykład: fabryka A robi butelkę na płyn do naczyń, firma B ją napełnia, a sieć C sprzedaje produkt pod własną marką. Obowiązki producenta może mieć sieć C , choć nie ma ani jednej maszyny. Role trzeba sprawdzić na podstawie umów, oznakowania, drogi dostaw i tego, kto pierwszy wprowadza opakowanie na rynek UE. Logo to mocna wskazówka, ale nie jedyna. Cztery role, które firmy często mylą Jedna firma może pełnić kilka ról naraz: Dostawca lub co-packer Fizycznie produkuje opakowanie albo pakuje produkt i dostarcza dowody techniczne. Producent wg PPWR Odpowiada za zgodność, gdy opakowanie trafia na rynek pod jego nazwą lub znakiem. Importer Wprowadza na rynek UE opakowania lub produkty spoza UE i sprawdza, czy producent spełnił wymagania. Producent w EPR Rejestruje się i finansuje gospodarkę odpadami opakowaniowymi w każdym kraju sprzedaży. Europejska marka, która sprowadza kosmetyki private label spoza UE, bywa jednocześnie producentem, importerem i producentem w EPR. Umowa z dostawcą nie zmienia rozporządzenia Zapis „dostawca gwarantuje zgodność z PPWR” jest przydatny, ale nie przenosi ustawowych obowiązków . Organ nadzoru może zwrócić się do właściciela marki jako producenta, niezależnie od tego, co strony ustaliły między sobą. Umowy nadal są ważne. Zapewniają dostęp do raportów z badań, kontrolę zmian, gwarancje, odszkodowania i regres. Dzielą ryzyko handlowe, ale nie zastępują podziału ról z przepisów. W praktyce najlepiej działa proces dowodowy : lista wymaganych dokumentów dla każdego indeksu opakowania, prawo akceptacji zmian, terminy na uzupełnienie braków i konsekwencje niepełnej dokumentacji. Co producent private label musi umieć pokazać Zanim opakowanie trafi na rynek, art. 15 wymaga od producenta przeprowadzenia (lub zlecenia) oceny zgodności zgodnie z art. 38, przygotowania dokumentacji technicznej według załącznika VII i zebrania dowodów. Ogólne oświadczenie dostawcy dla całego katalogu rzadko wystarcza dla konkretnego opakowania. Potrzebne są: opis techniczny opakowania, komponentów, materiałów i przeznaczenia, dowody dla mających zastosowanie wymagań: substancje, recyklingowalność, zawartość recyklatu, minimalizacja opakowań, deklaracja zgodności UE zgodnie z art. 39 i załącznikiem VIII, oznaczenie typu, partii lub serii, które łączy opakowanie na rynku z dokumentacją, dane kontaktowe producenta na opakowaniu albo, gdy to dopuszczalne, w dokumencie towarzyszącym, kontrolowany rejestr zmian dostawców, materiałów, projektu i wyników badań. Cztery sytuacje z praktyki 01 · marka własna sieci Supermarket z żywnością i chemią pod własną marką. Potrzebuje uporządkowanej dokumentacji zgodności dla każdej rodziny opakowań. 02 · marka D2C Sklep online zamawia słoiki i kartony u kilku dostawców w UE. Nie ma fabryki, ale i tak może być producentem. 03 · zakupy spoza UE Polska firma sprowadza kosmetyki z Azji. Ma obowiązki producenta i importera naraz i nie może oprzeć się na jednostronicowym „PPWR compliant”. 04 · zmiana dostawcy Marka napojów zmienia etykietę, zakrętkę, klej lub laminat. To może zmienić skład, recyklingowalność i dowody do deklaracji, więc ocenę trzeba powtórzyć przed wprowadzeniem. Wąski wyjątek dla mikroprzedsiębiorstw PPWR zawiera ograniczone zastrzeżenie dla niektórych mikroprzedsiębiorstw, które mają opakowania wytwarzane pod własną nazwą lub znakiem. Może ono wpłynąć na to, kto jest producentem, gdy dostawca działa w tym samym państwie członkowskim. To nie jest szerokie zwolnienie : trzeba spełnić unijne kryteria mikroprzedsiębiorstwa i warunek tego samego kraju. Zakupy transgraniczne lub spoza UE zwykle je wykluczają. Zapasy magazynowe: liczy się wprowadzenie na rynek Data zamówienia produkcji nie musi być decydująca. Liczy się moment, w którym dana jednostka opakowania została po raz pierwszy wprowadzona na rynek UE . Towar wprowadzony po rozpoczęciu stosowania danych wymagań PPWR może musieć je spełniać. Zachowaj faktury, dokumenty dostaw, dane partii i potwierdzenia dostawców, żeby obronić status zapasów podczas kontroli. Co się zmienia od 12 sierpnia 2026 PPWR stosuje się co do zasady od 12 sierpnia 2026 r., ale poszczególne wymagania mają własne terminy, a część zależy od aktów wykonawczych i zharmonizowanych metod. Priorytety na teraz: przypisać role, przygotować dokumentację, zdobyć użyteczne dowody od dostawców, wyznaczyć właściciela oceny zgodności i powiązać każdą deklarację z właściwym produktem, dostawcą i rynkiem. Checklista dla private label Przypisz każde SKU marki własnej do komponentów i indeksów opakowań. Zapisz, kto projektuje, produkuje, importuje i pierwszy wprowadza każde opakowanie na rynek UE. Ustal producenta w świetle prawa, a nie według wewnętrznej nazwy „dostawca”. Poproś o dane techniczne i wyniki badań dla konkretnych indeksów. Wprowadź zasady kontroli zmian materiałów, wymiarów, farb, klejów i dostawców. Przygotuj i zatwierdź deklarację zgodności UE dla każdej rodziny opakowań. Połącz dokumentację PPWR z krajowymi rejestracjami i raportami EPR. Przechowuj dowody przez wymagany okres: zwykle 5 lat, a dla opakowań wielokrotnego użytku 10 lat. Jak pomaga EPRPilot EPRPilot łączy indeksy opakowań z produktami, komponentami, dostawcami, rynkami i dokumentami. Widzisz, kto jest winien dowody, która deklaracja pasuje do której wersji i czy zmiana dostawcy wymaga ponownej oceny. Te same dane służą do pracy nad zgodnością z PPWR i do raportów EPR w każdym kraju. Najważniejsze Private label nie jest sposobem na przekazanie odpowiedzialności regulacyjnej. Załóż, że rola producenta w PPWR może leżeć po Twojej stronie, a potem sprawdź to na rzeczywistym łańcuchu dostaw. Dostawcy mają dostarczyć wiarygodne dane, ale to Twoja firma potwierdza, że dowody wspierają deklarację, którą podpisuje. Czy wystawisz deklarację zgodności w 10 dni? Zobacz, jak EPRPilot porządkuje dane o opakowaniach, dostawcach i dokumentach PPWR oraz rejestracje EPR w 27 krajach UE. Umów demo Moduł PPWR Artykuł ma charakter informacyjny i nie stanowi porady prawnej. Sprawdź aktualny stan przepisów przed podjęciem decyzji.",
+  "url": "https://eprpilot.com/blog/ppwr-private-label-wlasciciel-marki-producent-opakowan.html"
+ },
+ {
+  "id": "blog-en-amazon-poland-epr-bdo-packaging-weee-batteries-2026",
+  "type": "article",
+  "lang": "en",
+  "title": "EPR in Poland for Amazon sellers: BDO, packaging, electronics and batteries in 2026",
+  "summary": "An active Amazon listing is not EPR compliance. Producer role, BDO scope, FBA and FBM, three streams in one listing, 1 Mg de minimis, the 15 March report and Amazon verification.",
+  "text": "← All articles An active listing in Seller Central does not prove that your environmental obligations are met. Amazon accepting a product does not replace registration, weight records or financing waste management. Here is how to get it in order when selling into Poland in 2026. Identify your role before looking for a number Producer duties can fall on an importer, the first supplier in a country or a distance seller. Assess packaging, equipment and batteries separately . An amazon.pl domain or a warehouse address does not decide your obligations on its own. BDO: the entry must match your actual activities Register before you start the activity. The entry must cover the right sections and product types. A number without the correct scope is not proof of compliance. Also note that product weight records are not the same as waste records. Read more about BDO in our post EPR in Poland 2026 . Packaging: weigh components, not just the carton Include inserts, films, grouped packaging and transport components. Report weights by material. Purchase invoices don’t reflect actual product flows. Also re-check who the producer is under the PPWR definitions. FBA and FBM: logistics does not transfer EPR FBA Amazon storing and shipping your goods doesn’t transfer your product, packaging or battery duties. Assess packaging added by Amazon and inbound transport packaging separately. FBM You ship yourself, so the shipping carton and filling are your packaging to report in the destination country. Don’t assign all sales to Poland just because stock sits in a Polish warehouse. What counts is where the product actually goes. Electronics and batteries: three streams in one listing A rechargeable product can trigger packaging, equipment and battery duties at once. Built-in batteries count too. Packaging Box, insert, film, shipping carton. Equipment (WEEE) Device category and weight. Batteries Chapter VIII of Regulation (EU) 2023/1542 has applied since 18 August 2025. Battery passports from 18 February 2027 cover specified categories. Registration is the start: financing and reporting Arrange compliance for every stream. The annual BDO report is generally due by 15 March for the previous year , so 2026 data is due by 15 March 2027. Keep separate calendars and save submission receipts. Up to one tonne of packaging: relief is not deregistration The de minimis route applies where packaging placed on the market doesn’t exceed 1 Mg per year . It doesn’t exempt you from BDO registration, records or reporting, and it doesn’t cover equipment or batteries. Confirm the procedure with the authority before the deadline. Amazon checks: verify each country and category Amazon’s verification is separate from your legal duties. In its 30 July 2025 notice, Amazon set 18 August 2025 as the verification deadline for the battery regulation and named BDO as the Polish register. A German LUCID or French UIN number is not Polish compliance , and a BDO number doesn’t replace registration abroad. Article 45(4) PPWR sets duties for platforms, but there is no uniform blocking date yet. See our overview in EPR and PPWR on marketplaces . PPWR from August 2026: not everything starts at once Regulation (EU) 2025/40 generally applies from 12 August 2026. Foreign distance sellers under Article 3(1), point 15(d) should assess whether they must appoint an EPR authorised representative under Article 45(3). Recyclability grades and the 50% empty-space limit have later deadlines. Example: a rechargeable lamp sold through FBA A Polish company imports a lamp from outside the EU and sells it via FBA in Poland and Germany. It has to assess Polish equipment, battery and packaging duties, plus German requirements. The data must be updated whenever the product or supplier changes. Data to collect before reporting Selling entity, destination country, date and fulfilment model (FBA/FBM). SKU or ASIN linked to the product specification. Packaging weights by material. Equipment category and weight. Battery data. Registrations, contracts and submission receipts. Correction evidence and a record of who is responsible for what. Common seller questions Does FBA mean Amazon handles EPR? No. Logistics doesn’t transfer producer obligations. Does one BDO number cover the EU? No. BDO is Polish. Every country has its own register. Do small batteries count? Yes, including those built into devices. Does late registration erase earlier liabilities? No. Past obligations remain. How EPRPilot helps EPRPilot organises product, packaging, registration and deadline data by country and stream, including Amazon sales. It doesn’t replace a legal assessment. If you want to discuss your sales model, book a consultation . Status as of 6 October 2026. Sources: BDO portal, Amazon’s 30 July 2025 battery notice, the Polish Waste Act of 14 December 2012, the Polish Packaging Act, the Polish WEEE Act, PPWR (EU) 2025/40, Battery Regulation (EU) 2023/1542. Can you produce a Declaration of Conformity in 10 days? See how EPRPilot manages packaging data, suppliers, PPWR documents and EPR registrations across 27 EU markets. Book a demo PPWR module This article is for information only and is not legal advice. Check the current state of the law before making decisions.",
+  "url": "https://eprpilot.com/en/blog/amazon-poland-epr-bdo-packaging-weee-batteries-2026.html"
+ },
+ {
+  "id": "blog-en-epr-czechia-slovakia-packaging-weee-batteries",
+  "type": "article",
+  "lang": "en",
+  "title": "EPR in Czechia and Slovakia: packaging, WEEE and batteries before your first sale",
+  "summary": "Selling to Czechia or Slovakia? EKO-KOM, OZV, the Article 45 PPWR authorised representative, WEEE, batteries, small volumes, report data and a pre-launch checklist.",
+  "text": "← All articles A translated store, prices in koruna or euro and a courier contract are not enough to sell into Czechia or Slovakia. Cross-border sales can make you responsible for packaging and products that become waste in those countries. It is worth settling this before your first shipment. Start with the sales model A producer under EPR law is not always the manufacturer. It can be an importer, the first supplier in a country or a foreign distance seller. Definitions also differ for packaging, WEEE and batteries. Map who sells, who receives, who imports, who adds shipping packaging, and whether the buyer resells or uses the product. A warehouse, marketplace or distributor doesn’t settle these questions automatically. B2B is not automatically exempt : a business buying for its own use can be an end-user, and PPWR distinguishes professional end-users. Packaging in Czechia The basis is Act No. 477/2001 Coll. The most common route is a contract with the authorised packaging company EKO-KOM . It covers packaging take-back and recovery, but not electronics or batteries. EKO-KOM published new reporting methodologies effective 12 August 2026, including a method for identifying the obligated producer and an updated quarterly statement. Empty service, transport and primary-production packaging may be allocated differently from packaged retail goods. Confirm this with the organisation or your representative. Packaging in Slovakia The basis is Act No. 79/2015 Coll. on Waste. Registration must be completed before placing packaging on the Slovak market. Collective obligations are handled by an OZV, a producer responsibility organisation. A contract with an OZV does not prove registration is complete. Check the authorised representative’s mandate, the streams covered, who is responsible for reports and how registration is confirmed. A packaging mandate doesn’t automatically cover WEEE or batteries. Foreign distance sellers Under Article 45(3) PPWR, producers established elsewhere that sell directly to end-users (including professionals) must appoint an authorised representative in the Member State where they first place goods on the market. Assess this separately for Czechia and Slovakia. A tax adviser, logistics provider or VAT representative usually has no EPR mandate. Proposals to simplify representation are not legal exemptions. Small volumes National relief for small quantities varies in scope and conditions. It may waive some financing or reporting duties, but not registration, records or conformity requirements. Don’t carry Czech rules over to Slovakia, and don’t assume ten parcels are exempt. Record material and weight from the first shipment to test whether any relief applies at all. WEEE Czechia applies Act No. 542/2020 Coll. on End-of-Life Products, Slovakia its Waste Act. Packaging participation doesn’t cover electronics obligations. Under the WEEE Directive, a seller established in one Member State selling equipment at a distance to users in another must appoint an authorised representative there. Equipment is classified by category, units and device weight. Don’t report gross parcel weight as device weight. Batteries Batteries inside products remain subject to EPR. Regulation (EU) 2023/1542 applies, and its waste-battery chapter (producer registration and EPR rules) has applied since 18 August 2025. Check registration in each market and the Article 56 authorised-representative requirement for distance sellers. Record category, chemistry, weight and quantity. Battery EPR is separate from the battery passport. From 18 February 2027 the passport applies to LMT, industrial (over 2 kWh) and EV batteries, not to small portable batteries sold online. Example: one lamp, two countries, three streams A Polish online shop sells a rechargeable lamp directly to customers in Czechia and Slovakia. Each unit has a retail box and insert, and each order adds a shipping carton and paper filling. WEEE The lamp as electrical equipment, separately in each country. Batteries The built-in battery under battery EPR. Packaging Each component separately. Confirm who owns the shipping carton, especially if a fulfilment provider supplies it. The map is 2 markets × 3 streams = 6 areas that need evidence. A generic “EPR compliant in the EU” statement is not that evidence. Report data 1,000 parcels with 180 g cardboard, 12 g film and 25 g paper filling make 180 kg, 12 kg and 25 kg. The combined 217 kg does not replace the material breakdown. 180 kg cardboard 12 kg film 25 kg paper ≠ 217 kg one number is not enough Keep: SKU, destination country, sales date and units per market. Packaging components (box, label, film, insert, mailer, filling) with material and weight. Equipment category and reportable weight. Battery category, chemistry, weight and quantity, including built-in batteries. Responsible producer, representative, organisation, registration confirmation and contract per market and stream. Documented corrections for returns, cancellations and specification changes. Costs and deadlines Costs may include registration or administrative fees, representative fees, minimum contract charges and contributions based on material, category or quantity. Ask whether each stream is priced separately. VAT or OSS procedures don’t replace environmental duties. EKO-KOM reports quarterly , other organisations may follow different schedules. Build a calendar per country and stream, don’t apply Poland’s BDO deadline everywhere, and set internal data-review dates well ahead of submission. What about PPWR? Regulation (EU) 2025/40 generally applies from 12 August 2026. It harmonises packaging rules but doesn’t create a single EU-wide EPR account . You need both country-specific EPR evidence and packaging conformity documentation: technical information, conformity assessment and the EU declaration of conformity. A recovery-organisation contract does not prove conformity. Many provisions have later dates or depend on implementing acts, including the 2030 design targets and future labels. Checklist before opening Czech and Slovak sales Map direct sales, professional end-users, distributors and fulfilment. Identify the responsible producer per market and stream. Confirm registration and representative requirements before launch. Verify collective-compliance scope and obtain registration evidence. Document any small-volume relief instead of assuming it. Complete SKU-level product, equipment, battery and packaging records. Assign reporting deadlines, owners and review dates. Review PPWR packaging documentation and take-back or customer-information duties. How EPRPilot helps EPRPilot centralises packaging data, product records, country registrations, documents and deadlines. It supports both country workflows and PPWR documentation. It doesn’t replace a required authorised representative, an organisation contract or a legal assessment. Resolve your producer role first, then the registration scope, because clean data can’t fix a registration made under the wrong role. If you need help with your sales model, book a consultation . Status as of 6 October 2026. Sources: EKO-KOM pages on PPWR and statutory obligations, Slovak Act No. 79/2015 Coll. (Slov-Lex), PPWR (Art. 3, 44, 45), WEEE Directive 2012/19/EU (Art. 3, 17), Battery Regulation (EU) 2023/1542 (Art. 55, 56, 77, 96). Can you produce a Declaration of Conformity in 10 days? See how EPRPilot manages packaging data, suppliers, PPWR documents and EPR registrations across 27 EU markets. Book a demo PPWR module This article is for information only and is not legal advice. Check the current state of the law before making decisions.",
+  "url": "https://eprpilot.com/en/blog/epr-czechia-slovakia-packaging-weee-batteries.html"
+ },
+ {
+  "id": "blog-en-epr-poland-2026-bdo-packaging-weee-batteries",
+  "type": "article",
+  "lang": "en",
+  "title": "EPR in Poland 2026: BDO, packaging, WEEE and batteries. What sellers need to know",
+  "summary": "Who must register in BDO, what it costs (PLN 200/800), reporting packaging by material, the 1 Mg de minimis threshold, the 15 March deadline, WEEE, batteries and how EPR differs from PPWR.",
+  "text": "← All articles Selling to Poland without a local warehouse, office or subsidiary does not remove Polish EPR duties. A single product can trigger several obligations at once, and from 12 August 2026 PPWR adds another layer of packaging requirements. Here is what every seller to the Polish market needs to know. What EPR in Poland is Producers placing certain products or packaged goods on the Polish market may have to finance collection, recycling or recovery, keep records and report data. There is no single “Polish EPR number” that covers everything. Scope depends on the product and the company’s role in the supply chain. Covered areas include packaging, electrical and electronic equipment (WEEE), batteries and accumulators , plus selected products such as tyres, oils and certain single-use plastics. The central register is BDO, the database for products, packaging and waste management. Who must register in BDO The key question is who places the product or packaging on the Polish market , not where the company is based. That can include Polish manufacturers, non-EU importers, intra-EU acquirers, brand owners and foreign online or marketplace sellers shipping directly to Polish customers. Selling through a marketplace or a webshop does not by itself decide responsibility. The actual sales and logistics model has to be assessed. Example: an online electronics store A German company sells an LED lamp with a built-in battery to a Polish consumer. The lamp comes in a cardboard box with plastic film, shipped in an extra carton. One sale triggers four areas of obligations : WEEE The lamp is electrical equipment. Batteries The built-in battery is a separate stream. Product packaging The box and the film. Shipping packaging The extra carton is packaging to report as well. BDO registration is only the beginning Registration gives you a BDO number, but it does not mean all obligations are met. The entry must cover the right activities and streams . A company handling packaging, electronics and batteries may need entries in several areas. BDO registration cost in 2026 micro-enterprise PLN 200 annual fee. other businesses PLN 800 annual fee. The annual fee is the same every year and is generally due by the end of February. No extra annual fee is due in the year you paid the registration fee. The BDO fee is not the full cost, though. Depending on the stream, you may also pay a recovery organisation, recycling, education campaigns, collection obligations or product fees. Packaging EPR in Poland Reporting covers product, grouped, transport and e-commerce shipping packaging. Total parcel weight is not enough. Data must be split by material : paper and cardboard, plastics, glass, steel, aluminium, wood. 180 g cardboard 12 g film 25 g paper filling 3 lines reported separately At thousands of orders, that breakdown quickly becomes unmanageable in spreadsheets. Does a small volume exempt you? Poland has a de minimis mechanism for small packaging volumes, with a threshold of 1 Mg (1 tonne) per year . It is not a general EPR exemption. Relief from some financial duties does not necessarily remove registration, record-keeping or reporting, and using de minimis aid requires meeting formal conditions. Data to collect Good reporting starts well before the deadline and links sales data with product and packaging records: Product or SKU identification and sales market. Number of units sold. Packaging components and the material of each. Weight of each component. The correct EPR category, plus WEEE- and battery-specific data. Reporting deadline: 15 March The annual report on products, packaging and waste is filed electronically in BDO. The standard deadline is 15 March for the previous calendar year . Filing doesn’t always close the process: separate deadlines may apply to fees, recovery organisation documents and stream-specific duties. WEEE in Poland Companies placing electrical or electronic equipment on the market must assess WEEE obligations separately. Key questions: does the product meet the definition of equipment, and who places it on the market. Reporting may require the correct equipment category and weight. Selling small devices online does not create an automatic exemption . Batteries as a separate stream A battery built into a device is still its own compliance item. Batteries are a separate EPR stream, so one SKU can appear in WEEE, battery and packaging data at once. EU Regulation 2023/1542 on batteries is becoming more important while Poland adapts its national rules. Check the current procedure for your sales model and battery type. EPR and PPWR are two different layers PPWR · Regulation (EU) 2025/40 Covers the packaging itself: technical documentation, declaration of conformity, design, substances, and later recyclability and labelling. Applies from 12 August 2026. Polish EPR Registration, records, reporting and financing for packaging placed on the Polish market. PPWR does not remove national EPR duties. The same box, bottle or mailer is subject to both layers . Checklist before selling in Poland Identify covered products and who places them on the Polish market. Assess packaging, WEEE and batteries separately. Confirm the required BDO registration scope. Build SKU-level product and packaging data. Link that data to actual sales into Poland before calculating volumes and reports. How EPRPilot helps The hard part is rarely a single form. It is managing hundreds or thousands of SKUs across several markets, each needing different data. EPRPilot combines product, sales and compliance data, assigns products to EPR streams, stores packaging information, tracks volumes and deadlines and prepares data for national reports. Polish BDO becomes part of one EU-wide EPR process, not a spreadsheet rebuilt every year. Key takeaway Don’t only ask whether you have a BDO number. Ask whether you know which products and packaging you are responsible for in Poland and whether you can reproduce that data in your report. A registration number is only the start. Compliance depends on accurate data. Can you produce a Declaration of Conformity in 10 days? See how EPRPilot manages packaging data, suppliers, PPWR documents and EPR registrations across 27 EU markets. Book a demo PPWR module This article is for information only and is not legal advice. Check the current state of the law before making decisions.",
+  "url": "https://eprpilot.com/en/blog/epr-poland-2026-bdo-packaging-weee-batteries.html"
+ },
+ {
+  "id": "blog-en-epr-ppwr-marketplace-listing-blocks",
+  "type": "article",
+  "lang": "en",
+  "title": "EPR and PPWR on marketplaces: where listing blocks are really coming",
+  "summary": "Amazon, TikTok Shop, Zalando, eBay, Kaufland, Allegro and more: who already blocks listings without an EPR number, who is preparing, and what to do before Article 45 PPWR.",
+  "text": "← All articles Since PPWR started to apply on 12 August 2026, marketplaces have become one of the most visible enforcement points for EPR in European e-commerce. Amazon removes offers without registration numbers, TikTok Shop deactivates non-compliant listings and Zalando has set a date for blocking partner assortments. Platforms are at different stages, though. The key lesson: no block today does not mean no obligation tomorrow. Three levels of marketplace readiness Level 1 · enforcement Amazon, TikTok Shop and, in selected areas, Zalando. Missing data can already cost you sales. Level 2 · rollout Kaufland, eBay, bol.com and Zalando in further markets. Platforms collect data, build validation or announce consequences. Level 3 · preparation Allegro, eMAG and many others. Automated checks are held back mainly by national registries, but verification is being built. Amazon: the most advanced enforcement Amazon has been building EPR mechanisms for years, so PPWR did not mean starting from scratch. EPR numbers (ERN) go into the Regulatory Compliance section of Seller Central. The field only appears for markets where verification has launched. For Poland, Amazon told sellers to obtain a packaging number and warned that not registering before 12 August could lead to listing removal. Don’t wait for an Account Health warning. If you are an EPR producer, register whether or not the field is active yet . TikTok Shop: no number, no listing TikTok Shop’s instructions require packaging producers to hold a valid EPR number in every required market, appoint an authorised representative where needed, join a producer responsibility organisation and submit the number via Seller Center. Non-compliant listings can be deactivated and return only once a valid number is approved. It is a clear move to a chain: number → verification → permission to sell . Zalando: a firm blocking date of 1 January 2027 Zalando Partner is one of the most transparent platforms. EPR data is submitted through zDirect. It started with Germany, France and Spain, and since 12 August 2026 also covers Poland, Belgium, Denmark, Finland, Hungary, Lithuania, Slovakia and Sweden. Zalando says partners who don’t submit the required EPR data by 1 January 2027 will have their assortment blocked. Fashion sellers may also have battery, textile and other obligations. Zalando already blocks battery products until compliance is verified. eBay and Kaufland: the infrastructure is ready eBay · listings can be hidden The packaging EPR number is added at account level: country, Packaging category, number and confirmation. Listings may be hidden if it is missing or invalid. Mass PPWR blocking across all EU countries could not be confirmed as of September 2026. Kaufland · EPR Compliance section Sellers pick a country and EPR category, enter the number and submit it for review. Kaufland refers to Article 45 PPWR. A packaging number is currently required in Germany, Poland, France and Spain. A note on Kaufland: a missing field in the panel for a country does not mean there is no EPR obligation there. bol.com, Allegro and eMAG: preparing, not blocking yet bol.com Not yet running mass verification of PPWR registrations, because there is no system to check against. In August 2026 it announced future checks and a possible impact on sales. Allegro A missing EPR number does not block sales for now, as EU countries are adapting their registries. The target is to check the number for every destination country before enabling sales. In September 2026 it started working with Interzero on EPR for exporting sellers. eMAG Covers producer registration, EPR fulfilment, authorised representatives and data submission. Self-certification is enough today, with verification extended as registries go live. Temu, AliExpress, OTTO OTTO has long required VerpackG system participation and ZSVR registration, but there is no strong confirmation of new PPWR-based blocks. Treat claims of blocks on Temu or AliExpress with caution until a credible source appears. Article 45 PPWR: why mass verification is coming Article 45 PPWR requires platforms to collect information on producers and their EPR compliance. The EU is working on a harmonised format for producer registries, and the Commission’s implementing documents expect automated, mass verification of registration numbers. Some marketplaces are not blocking yet because national infrastructure is missing , not because they don’t want to. Once registries become interoperable, enforcement can speed up sharply. What a cross-border seller should do now The most common mistake is thinking “the marketplace hasn’t blocked me, so I don’t need to do anything”. The legal obligation and platform enforcement are separate. The duty can exist before the platform is able to check it. Build a country × marketplace × EPR stream map and answer for each market: Is the company a producer under EPR/PPWR? Is packaging EPR registration required? Is an authorised representative needed? Does the product also fall under WEEE, batteries, textiles or another stream? Which numbers do you hold, and where must they be submitted? Does the marketplace already verify the number? Which packaging do you report: product, grouped, shipping? Do you have material and weight data and PPWR documentation? Who owns shipping packaging in marketplace fulfilment? Zalando says that under ZFS it takes responsibility for the shipping packaging it adds, while product packaging stays with the relevant EPR producer. bol.com describes a similar split for Logistics via bol. The implication: your data must separate product packaging from fulfilment packaging , and you must know who reports which component in which country. How EPRPilot helps EPRPilot gives you one map of registrations and deadlines for every EU market. Packaging data is tracked at component level and linked to each SKU and country. Reports are produced per market, so you can check, submit and track EPR numbers whenever a marketplace asks for them. Key takeaway The question is not “is the marketplace blocking?” but “when will it start?”. EPR is becoming a technical condition of market access: no valid number, no visible offers. Plan registrations, representatives, reporting and packaging data before entering a new market, not in reaction to a platform warning. Can you produce a Declaration of Conformity in 10 days? See how EPRPilot manages packaging data, suppliers, PPWR documents and EPR registrations across 27 EU markets. Book a demo PPWR module This article is for information only and is not legal advice. Check the current state of the law before making decisions.",
+  "url": "https://eprpilot.com/en/blog/epr-ppwr-marketplace-listing-blocks.html"
+ },
+ {
+  "id": "blog-en-eudr-poland-penalties-obligations",
+  "type": "article",
+  "lang": "en",
+  "title": "EUDR in Poland: penalties of up to 4% of turnover. What are the obligations?",
+  "summary": "Who EUDR covers, what the Polish draft act UC101 changes, due diligence and the DDS, which authorities will inspect, what penalties apply and when the rules start.",
+  "text": "← All articles Many businesses still don’t realise they may be subject to EUDR. The obligations reach beyond importers of wood, coffee and cocoa to furniture producers and distributors, paper goods makers, sellers of seasonal products and makers of components containing wood or rubber. Poland’s draft act (UC101) adds no new substantive duties. It builds the national enforcement system: who inspects, how, and what penalties apply. EUDR is not only about wood importers EUDR, Regulation (EU) 2023/1115, covers cattle, cocoa, coffee, oil palm, rubber, soya and wood , plus certain products made from them. wood furniture, paper rubber tyres, seals coffee · cocoa food soya · palm oil feed, cosmetics cattle leather, meat Scope is decided by Annex I and the product’s CN code , not simply by whether a commodity is in the product. Furniture, paper, e-commerce and manufacturing firms are often in scope without knowing it. First step: list your products, record their CN codes and check them against the current Annex I. What the Polish draft act UC101 changes The draft creates no new obligations, because those come directly from the EU regulation. It sets up national enforcement: control authorities, procedures and penalties. The draft has been revised several times, with versions at the Government Legislation Centre in April, July and August 2026, so penalty and procedure details may still change before it reaches parliament. Waiting for the final text is risky , because collecting supplier data and building records takes months. What the obligations are: due diligence Before placing a product on the market or exporting it, a covered business must run a due diligence process in four steps: 01 · information Product and supplier data, including where raw materials come from. 02 · risk assessment Risk of deforestation, forest degradation and breaches of the production country’s laws. 03 · risk mitigation Action wherever the assessment shows possible non-compliance. 04 · DDS Submitting a due diligence statement in the EUDR Information System. Who will supervise businesses in Poland The draft splits competences between several authorities: Veterinary Inspection Cattle. IJHARS Agri-Food Trade Quality Inspection: cocoa, coffee, soya and palm oil. Environmental Protection Inspection Wood and rubber. One company may deal with different authorities depending on the product flow. An importer with a broad range should know which authority covers which stream. What penalties apply The draft provides for sanctions showing that enforcement won’t stop at fines: Administrative fines based on turnover. A maximum fine of at least 4% of annual EU-wide turnover . The regulation requires this for legal persons, and the act will define how turnover is measured. Seizure and confiscation of goods. A ban on placing products on the market. A ban on exports. Temporary exclusion from public procurement. Temporary exclusion from grants and public funds. Is your company covered by EUDR? Check whether your products or imports contain, or are made from, wood, paper, rubber, coffee, cocoa, soya or palm oil. For each product group: Check CN codes against Annex I. Map suppliers and establish where raw materials come from in each flow. Identify your role: upstream operator, downstream operator or trader. Confirm the application date for your company size and product. Plan supplier data, record-keeping and due diligence documentation. Timelines: when EUDR applies 30.12.2026 · large and medium Full application of EUDR. 30.06.2027 · micro and small For most products. 30.12.2026 · exception Micro and small businesses with products already covered by EUTR stay on 30 December 2026. 30.12.2027 · added products Products added by delegated regulation, as indicated by the Commission. Check your company status, the specific product and transitional provisions. Collecting geolocation, assessing risk and building records usually take months, so start now. How to prepare for EUDR in Poland The EPRPilot EUDR package is a ready set of documents to fill in with your company data: Decision tree to identify your company’s role. Due diligence procedure. Supplier letter and questionnaire. Delivery register. Risk-assessment sheet. Inspection-readiness checklist. Find more answers in our FAQ . Sources: Regulation (EU) 2023/1115 (EUR-Lex), draft act UC101 at the Government Legislation Centre, the Polish Ministry of Climate page on EUDR implementation, the European Commission page on roles, obligations and timelines. Check the current UC101 status, Annex I and transitional provisions for your products. Can you produce a Declaration of Conformity in 10 days? See how EPRPilot manages packaging data, suppliers, PPWR documents and EPR registrations across 27 EU markets. Book a demo PPWR module This article is for information only and is not legal advice. Check the current state of the law before making decisions.",
+  "url": "https://eprpilot.com/en/blog/eudr-poland-penalties-obligations.html"
+ },
+ {
+  "id": "blog-en-ppwr-heavy-metals-100-ppm-supplier-statement",
+  "type": "article",
+  "lang": "en",
+  "title": "PPWR heavy metals limit: is a supplier’s “below 100 ppm” statement enough?",
+  "summary": "A supplier’s one-page statement that packaging contains less than 100 ppm of heavy metals may be too vague for a PPWR technical file. What it should contain and when you need a test.",
+  "text": "← All articles Your supplier sends a one-page statement: “the packaging contains less than 100 ppm of heavy metals”. Job done? Often not. A statement like this is usually too vague to support a PPWR technical file. Here is what the limit actually requires, what a typical statement leaves out, and how to collect evidence that holds up in an inspection. What exactly does the 100 ppm limit mean? PPWR keeps the limit known from the Packaging Directive: 100 mg/kg in total for four metals: lead, cadmium, mercury and hexavalent chromium. It is a sum, not a limit for each metal. If lead is 60 mg/kg and cadmium 50 mg/kg, the packaging fails, even though each result looks fine on its own. The limit applies to the packaging and to each of its components . A compliant bottle does not “average out” a non-compliant cap or label. Every component is assessed separately. Pb lead Cd cadmium Hg mercury Cr(VI) hexavalent chromium Σ ≤ 100 mg/kg per component Which packaging is covered? PPWR’s scope is broad: all packaging placed on the EU market, whatever the material or sector. Sales, grouped and transport packaging, B2C and B2B. Passing the 100 ppm check does not mean full compliance. REACH restrictions and food-contact rules, among others, apply alongside PPWR and can set stricter conditions for specific substances. Why a bare “below 100 ppm” is not enough A typical statement has gaps that only show up during an inspection or a customer request: It doesn’t name the component. “Our packaging” is not the version 3 cap with colourant X. It doesn’t say whether it is the sum. You can’t tell if the result covers the combined four metals or each one separately. It gives no basis. Is it a test result, a calculation from the formulation, or a statement “from experience”? It has no date or version. The supplier changes raw materials, while the 2022 statement still sits in the binder. The documentation must trace back to exactly the component that goes into your packaging. What a useful supplier statement should contain The issuer and the person signing it. The exact component reference: specification number, item code, version and, if relevant, batch. A clear statement that the result covers the sum of Pb, Cd, Hg and Cr(VI), or results for each metal. The evidence basis: an accredited laboratory report or a documented formulation calculation. Dates: issue date, test date and validity. A commitment to notify you of changes to raw materials, suppliers or processes. A language your team understands, and readiness to make documents available to authorities. Does every component need a laboratory test? No. PPWR does not require one test per component. A risk-based approach makes sense: higher risk → test Recycled inputs, intense pigments and inks, printed elements, metal fittings, components from new or unproven suppliers. lower risk → formulation data Stable virgin materials with a controlled formulation, a track record of results and a contract to report changes. Four practical scenarios 01 · virgin PP closure Locked formulation, metal-free colourant, the same supplier for years. A statement based on the formulation plus a change clause is enough, with periodic testing, e.g. once a year. 02 · brightly coloured recycled crate Recyclate can carry old lead or cadmium pigments. You need batch testing and a check whether the crate falls under the crates and pallets derogation. 03 · printed paper label Paper is rarely the problem, inks and varnishes can be. Ask the printer for ink data and a result for the finished label. 04 · private label imported from outside the EU Often nobody has the full component list. As the brand owner you may be the manufacturer under PPWR, so collecting evidence and issuing the declaration is on you. Exceptions that need separate review Existing derogations, including for certain glass packaging and for plastic crates and pallets in closed loops, remain until they are amended or repealed. The Commission may lower the limit or change the derogations through delegated acts. Check the current status before relying on one. Who carries the final responsibility? The supplier provides evidence, but the packaging manufacturer carries out the conformity assessment, prepares the technical documentation and issues the EU Declaration of Conformity. In private-label models the brand owner may be the manufacturer. Importers must verify that this work has been done. Documentation is kept for 5 years for single-use packaging and 10 years for reusable packaging. Checklist before 12 August 2026 Break each pack down into components: body, closure, label, adhesive, ink, fittings. Assign a supplier and specification number to each component. Collect evidence that covers the sum of all four metals. Rank components by risk and commission tests where needed. Add change-notification clauses to supplier contracts. Store evidence against the exact item code and version. Review derogations and REACH and food-contact requirements. How EPRPilot helps In the PPWR module every component has its own record: specification, supplier, test reports and statements, linked to the packaging and SKU. When a customer asks for a Declaration of Conformity, the data is already there and the declaration takes minutes. The same data feeds EPR reports in every country. Can you produce a Declaration of Conformity in 10 days? See how EPRPilot manages packaging data, suppliers, PPWR documents and EPR registrations across 27 EU markets. Book a demo PPWR module This article is for information only and is not legal advice. Check the current state of the law before making decisions.",
+  "url": "https://eprpilot.com/en/blog/ppwr-heavy-metals-100-ppm-supplier-statement.html"
+ },
+ {
+  "id": "blog-en-ppwr-importer-obligations-non-eu-manufacturers",
+  "type": "article",
+  "lang": "en",
+  "title": "PPWR importer obligations: what changes when your manufacturer is outside the EU",
+  "summary": "Buying from a supplier in China, the UK, Turkey or the US? Under PPWR you are the importer. Who counts as importer, core duties, when you become the manufacturer, and EPR.",
+  "text": "← All articles Buying packaged goods from a supplier in China, the UK, Turkey or the US? Under PPWR that makes you the importer, and a large part of the manufacturer’s responsibility shifts onto you. Regulation (EU) 2025/40 on packaging and packaging waste (PPWR) applies from 12 August 2026. It replaced Directive 94/62/EC and applies directly, with no national transposition, so the same rules work in all 27 member states. Role allocation surprises companies most: manufacturer, authorised representative, importer and distributor. When the manufacturer is outside the EU, the market surveillance authority contacts the importer. Who counts as an importer under PPWR An importer is an EU-established natural or legal person that first places on the EU market packaging or a packaged product from a third country. Your core business doesn’t matter. If you import shampoo in bottles, the bottles, caps, labels, cartons and pallet wrap are your packaging. 01 · brand sourcing in Asia Imports finished goods and sells them under its own name. 02 · distributor or wholesaler Buys directly from non-EU suppliers. 03 · online seller Brings stock into an EU fulfilment centre. 04 · component imports Parts arrive in transport packaging, which is also covered by PPWR. Your core obligations Before placing packaging on the market, you must check that the non-EU manufacturer has complied, and be able to prove it: Confirm the conformity assessment was carried out and an EU declaration of conformity and technical documentation exist. Check correct material identification and sorting labels. Make sure manufacturer and importer details appear on the packaging or accompanying documents. Keep the declaration of conformity and technical documentation for 5 years and provide them on request. Ensure storage and transport don’t compromise compliance. If packaging is non-compliant, take corrective action, withdraw or recall it and inform the authorities. When the importer becomes the manufacturer A rule familiar from other EU product law applies. You take on full manufacturer obligations if you place packaging under your own name or trademark, or modify packaging already on the market in a way that affects its conformity. Private-label importers are almost always in this position. Then you, not your supplier, own the technical documentation, conformity assessment, recyclability performance grade and recycled-content evidence. Read more in our post on PPWR and private label . EPR on top: Articles 44 and 45 As the first entity placing packaging on a national market, the importer is also the EPR producer in that country. That means: Registration An entry in the national producer register. Authorised representative Where the country requires one. Annual reports Packaging placed on the market by material and weight. Fees Eco-modulated fees depending on the type of packaging. All of it is per country . Selling into 8 EU markets means 8 registrations, 8 fee schedules and 8 reporting calendars, each with different deadlines, units and material categories. The 10-day request you should expect The first PPWR pressure will more likely come from customers than inspectors. Retailers and B2B buyers are adding contract clauses requiring a declaration of conformity within short deadlines, often 10 working days . When supplier data is scattered across e-mails and spreadsheets, that deadline is very hard to meet. Importer readiness checklist Map every SKU to its packaging components, materials and weights. Collect supplier declarations, recycled-content evidence and recyclability data. Identify which group entity is the legal importer in each market. Confirm EPR registrations in every country you sell to. Set up a repository that produces a declaration of conformity in days, not weeks. Add PPWR clauses to purchase contracts with non-EU suppliers. How EPRPilot helps EPRPilot stores packaging data at component level, links it to each SKU and market, tracks registrations and deadlines across all 27 member states and generates audit-ready documentation. You answer customer requests and inspections from one place. Can you produce a Declaration of Conformity in 10 days? See how EPRPilot manages packaging data, suppliers, PPWR documents and EPR registrations across 27 EU markets. Book a demo PPWR module This article is for information only and is not legal advice. Check the current state of the law before making decisions.",
+  "url": "https://eprpilot.com/en/blog/ppwr-importer-obligations-non-eu-manufacturers.html"
+ },
+ {
+  "id": "blog-en-ppwr-private-label-brand-owner-packaging-manufacturer",
+  "type": "article",
+  "lang": "en",
+  "title": "PPWR and private label: when your brand becomes the packaging manufacturer",
+  "summary": "Under PPWR the packaging manufacturer is often the brand owner, not the factory. Roles, supplier contracts, required evidence, scenarios and a private-label checklist.",
+  "text": "← All articles Outsourcing production does not outsource responsibility. Under PPWR, Regulation (EU) 2025/40, who is responsible for packaging depends on the role a company plays and the name or trademark under which the packaging is placed on the market, not on who sends the production invoice. In many private-label models, the brand owner is the manufacturer for compliance purposes. The factory is not always the legal manufacturer Article 3(1)(13) PPWR defines the manufacturer broadly. It includes anyone who has packaging or a packaged product designed or manufactured under its own name or trademark , even if another trademark is also visible. Example: factory A makes a washing-up liquid bottle, co-packer B fills it and retailer C sells it under its own brand. Retailer C may carry the manufacturer’s duties without owning a single machine. Roles have to be checked against contracts, branding, the supply route and who first places the packaging on the EU market. A logo is a strong signal, but not the only one. Four roles companies often confuse One company can hold several roles at once: Supplier or co-packer Physically produces the packaging or packs the product and supplies technical evidence. Manufacturer under PPWR Responsible for conformity when packaging is placed on the market under its name or trademark. Importer Places non-EU packaging or packaged products on the EU market and checks that the manufacturer has complied. Producer for EPR Registers and finances packaging-waste obligations in each market it sells to. A European brand importing private-label cosmetics from outside the EU can be the manufacturer, the importer and the EPR producer at the same time. A supplier contract does not rewrite the regulation A clause saying “the supplier guarantees PPWR compliance” is useful, but it does not transfer statutory duties . Authorities can still address the brand owner as manufacturer, whatever the parties agreed between themselves. Contracts still matter. They secure access to test reports, change control, warranties, indemnities and recourse. They allocate commercial risk, but they don’t replace the legal allocation of roles. What works in practice is an evidence process : a list of required documents per packaging reference, approval rights for changes, deadlines for missing data and consequences for incomplete evidence. What a private-label manufacturer must be able to show Before packaging is placed on the market, Article 15 requires the manufacturer to carry out (or have carried out) the conformity assessment under Article 38, prepare technical documentation under Annex VII and collect evidence of compliance. A general supplier statement for a whole catalogue is rarely enough for a specific packaging reference. You need: a technical description of the packaging, components, materials and intended use, evidence for the applicable requirements: substances, recyclability, recycled content, packaging minimisation, the EU declaration of conformity under Article 39 and Annex VIII, a type, batch, serial or other identifier linking units on the market to the documentation, manufacturer contact details on the packaging or, where allowed, in an accompanying document, a controlled record of changes to suppliers, materials, design and test results. Four private-label scenarios 01 · retailer own brand A supermarket with own-brand food and household goods needs a controlled compliance file for every packaging family. 02 · D2C brand An online brand orders jars and cartons from several EU suppliers. It owns no factory, yet it may still be the manufacturer. 03 · non-EU sourcing A Polish company imports cosmetics from Asia. It has manufacturer and importer duties at once and cannot rely on a one-page “PPWR compliant” letter. 04 · supplier change A beverage brand changes a label, cap, adhesive or laminate. That can change composition, recyclability and the evidence behind the declaration, so the assessment must be reviewed before release. The narrow micro-enterprise exception PPWR contains a limited qualification for certain micro-enterprises with packaging made under their name or trademark. It can affect who counts as manufacturer when the supplier is in the same Member State. It is not a broad exemption : both the EU micro-enterprise criteria and the same-Member-State condition must be met, and cross-border or non-EU sourcing usually rules it out. Existing stock: placing on the market is what counts The production order date is not necessarily decisive. What matters is when each packaging unit was first placed on the EU market . Stock first placed on the market after the relevant PPWR requirements start to apply may have to meet them. Keep invoices, delivery records, batch data and supplier confirmations to defend your stock status in an inspection. What changes from 12 August 2026 PPWR generally applies from 12 August 2026, but individual requirements have their own dates and some depend on implementing acts or harmonised methods. Priorities now: map roles, prepare documentation, get usable supplier evidence, assign ownership of the conformity assessment and link each declaration to the right product, supplier and market. Private-label readiness checklist Map every own-brand SKU to its packaging components and references. Record who designs, manufactures, imports and first places each reference on the EU market. Confirm the legal manufacturer rather than relying on the internal “supplier” label. Request reference-specific technical data and test evidence. Set change-control rules for materials, dimensions, inks, adhesives and suppliers. Prepare and approve an EU declaration of conformity for each packaging family. Connect PPWR documentation with national packaging EPR registrations and reports. Keep evidence for the required period: generally 5 years, or 10 years for reusable packaging. How EPRPilot helps EPRPilot links packaging references with products, components, suppliers, markets and documents. You can see who owes evidence, which declaration matches which version and whether a supplier change needs review. The same data supports PPWR conformity work and country-by-country EPR reporting. Key takeaway Private label is not a way to outsource regulatory ownership. Assume the PPWR manufacturer role may sit with your company, then verify it against your actual supply chain. Suppliers should provide reliable data, but your company must confirm that the evidence supports the declaration it signs. Can you produce a Declaration of Conformity in 10 days? See how EPRPilot manages packaging data, suppliers, PPWR documents and EPR registrations across 27 EU markets. Book a demo PPWR module This article is for information only and is not legal advice. Check the current state of the law before making decisions.",
+  "url": "https://eprpilot.com/en/blog/ppwr-private-label-brand-owner-packaging-manufacturer.html"
+ },
+ {
+  "id": "blog-en-ppwr-supplier-declarations-what-counts-as-evidence",
+  "type": "article",
+  "lang": "en",
+  "title": "PPWR supplier declarations: what actually counts as evidence?",
+  "summary": "A company-wide “PPWR compliant” letter does not prove a packaging complies. What an EU declaration of conformity must contain (Art. 39, Annex VIII), red flags and what to ask suppliers for.",
+  "text": "← All articles Since PPWR, Regulation (EU) 2025/40, became generally applicable on 12 August 2026, buyers have been asking suppliers for a “PPWR declaration” and receiving company-wide PDFs. A letter like that does not prove that a specific packaging complies. Article 39(2) requires the EU declaration of conformity to follow the Annex VIII model, which identifies the specific packaging by a unique identification. Why are blanket “PPWR declarations” suddenly everywhere? The pattern is usually the same. A brand owner or distributor learns the regulation applies and e-mails every supplier. Suppliers have no conformity file per reference, so they send a quick letter saying the company takes the regulation seriously. The buyer files the letter and considers the job done. The result is an impression of compliance while no packaging is documented. Market surveillance, a large customer’s compliance team or lawyers in due diligence will review the file reference by reference. What an EU declaration of conformity under PPWR is It is a statement by the responsible operator, on its sole responsibility, that a specific packaging meets Regulation (EU) 2025/40. It is drawn up under Article 39 following the Annex VIII model and backed by technical documentation described in Annex VII. One declaration covers one packaging, never a whole company. A letterhead letter is about the company and proves nothing about any packaging. A marketing or scheme certificate, such as “certified sustainable packaging”, follows that scheme’s criteria. At most it can feed your technical file. Only a per-packaging declaration, together with data on materials, substances and recyclability, is usable evidence. What a valid declaration should contain Elements that follow from the Annex VIII model: A unique identification of the packaging: reference, name or description that maps to what you buy. Name and address of the operator taking responsibility. The full citation: Regulation (EU) 2025/40, not “applicable EU packaging rules”. A conformity statement about that packaging, not about company intentions or values. Place, date and a named signatory. The date matters when the packaging changes. Red flags not enough No packaging identified. “All our products” as scope. No regulation number. A marketing footer instead of a signature. a simple test If the same PDF could go to every customer unchanged, it does not identify your packaging. Does a supplier declaration replace your obligations? No. A supplier document is input evidence, not a transfer of responsibility . The operator placing the packaging on the market answers for its conformity. If that is you, you draw up your own declaration backed by your own Annex VII documentation. From suppliers you need data, not reassurance. Three families of data matter most: Composition Materials and their weights for each component. Substances · Art. 5 Including the 100 mg/kg limit for lead, cadmium, mercury and hexavalent chromium and the restriction on intentionally added PFAS in food-contact packaging. Design · Art. 6 Design data the recyclability assessment depends on. Read more about the heavy-metals limit in our post PPWR heavy metals limit . What to ask your supplier for instead Ask per packaging reference or SKU, not per company. Ask for a declaration that identifies that packaging and refers to the Annex VIII model. Ask for the supporting data: material composition by weight, Article 5 substances information, recyclability-relevant design data. Log missing items and refuse silent substitutions. A second letterhead PDF is not an answer. Make per-reference conformity documentation a contractual condition of purchase. File registrations, declarations and data together against the packaging reference. How EPRPilot helps EPRPilot stores declarations, supplier evidence and technical data per packaging reference. It links them to your SKUs and markets, so you can produce per-packaging documentation quickly when a customer or inspector asks. Can you produce a Declaration of Conformity in 10 days? See how EPRPilot manages packaging data, suppliers, PPWR documents and EPR registrations across 27 EU markets. Book a demo PPWR module This article is for information only and is not legal advice. Check the current state of the law before making decisions.",
+  "url": "https://eprpilot.com/en/blog/ppwr-supplier-declarations-what-counts-as-evidence.html"
+ }
+]

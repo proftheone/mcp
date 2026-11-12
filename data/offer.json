@@ -1,0 +1,35 @@
+{
+  "_source": "eprpilot.com (stan repozytorium strony z 2026-11-05). Aktualizuj przy zmianie cennika.",
+  "brand": "EPRPilot",
+  "partner_agency": {"name": "Otoneso", "url": "https://otoneso.com/pl", "role": "rejestracje EPR, raportowanie, wdrożenia PPWR"},
+  "contact": {"email": "info@eprpilot.com", "phone": "+48 459 596 793", "app_login": "https://app.eprpilot.com/auth/login"},
+  "plans": [
+    {"id": "demo", "name": "Free Demo", "price": "0 €", "notes": "Bez płatności."},
+    {"id": "single", "name": "Single Country", "price": "11,90 € / mies.", "notes": "Za wybrany strumień (opakowania, WEEE lub baterie) i kraj."},
+    {"id": "all", "name": "All Countries", "price": "199 € / mies.", "notes": "Wszystkie obsługiwane kraje i trzy strumienie."},
+    {"id": "ppwr", "name": "Moduł PPWR", "price": "9,90 € / mies. lub 99 € / rok", "notes": "Dodatek: nielimitowane deklaracje zgodności, archiwum, wymiana dokumentów z dostawcami. W Enterprise w cenie."},
+    {"id": "enterprise", "name": "Enterprise", "price": "wycena indywidualna", "notes": "Własne formaty raportów, konfiguracja."}
+  ],
+  "services": [
+    {"id": "consultation", "name": "Konsultacja EPR i PPWR", "price": "89 €", "duration": "60 min", "url": "https://eprpilot.com/konsultacje", "url_en": "https://eprpilot.com/en/consulting", "url_de": "https://eprpilot.com/de/beratung"},
+    {"id": "eudr", "name": "Pakiet EUDR", "price": "35 € netto", "notes": "Gotowy zestaw dokumentów: procedura należytej staranności, kwestionariusz dla dostawców, ocena ryzyka.", "url": "https://eprpilot.com/eudr"},
+    {"id": "registration", "name": "Rejestracje EPR w krajach (przez Otoneso)", "price": "wycena po konsultacji", "url": "https://otoneso.com/pl"}
+  ],
+  "regulations": [
+    {"id": "epr", "name": "EPR (opakowania, WEEE, baterie)", "status": "w EPRPilot", "summary": "Rejestracje, opłaty i raporty w krajach UE, Wielkiej Brytanii i Turcji."},
+    {"id": "ppwr", "name": "PPWR - rozporządzenie (UE) 2025/40", "status": "w EPRPilot", "summary": "Wymagania projektowe, recykling, deklaracje zgodności i oznakowanie opakowań. Stosowane od 12 sierpnia 2026."},
+    {"id": "bdo", "name": "BDO (Polska)", "status": "w EPRPilot", "summary": "Wpis do rejestru i roczne sprawozdanie o produktach w opakowaniach."},
+    {"id": "eudr", "name": "EUDR - rozporządzenie (UE) 2023/1115", "status": "usługa", "summary": "Należyta staranność dla drewna, kakao, kawy, soi, oleju palmowego, bydła i kauczuku."},
+    {"id": "cbam", "name": "CBAM - (UE) 2023/956", "status": "wkrótce", "summary": "Raportowanie emisji wbudowanych przy imporcie stali, aluminium, cementu, nawozów, wodoru, energii."},
+    {"id": "kobize", "name": "KOBiZE", "status": "wkrótce", "summary": "Roczny raport do Krajowej bazy o emisjach."},
+    {"id": "deposit", "name": "System kaucyjny (Polska)", "status": "wkrótce", "summary": "Obowiązki wprowadzających napoje w butelkach PET, puszkach i szkle wielokrotnego użytku."},
+    {"id": "sup", "name": "SUP - jednorazowe tworzywa", "status": "wkrótce", "summary": "Opłaty i oznakowanie produktów jednorazowych z tworzyw."},
+    {"id": "batteries_reg", "name": "Rozporządzenie bateryjne (UE) 2023/1542", "status": "wkrótce", "summary": "Ślad węglowy, recyklat, należyta staranność, paszport baterii."},
+    {"id": "espr", "name": "ESPR i DPP - (UE) 2024/1781", "status": "wkrótce", "summary": "Ekoprojekt i cyfrowy paszport produktu."},
+    {"id": "textiles", "name": "EPR tekstyliów", "status": "wkrótce", "summary": "EPR dla odzieży i tekstyliów domowych w całej UE; Francja już dziś (Refashion)."},
+    {"id": "gpsr", "name": "GPSR - (UE) 2023/988", "status": "wkrótce", "summary": "Osoba odpowiedzialna w UE, ocena ryzyka i dokumentacja dla produktów konsumenckich (od 13.12.2024)."},
+    {"id": "iso14001", "name": "ISO 14001", "status": "wkrótce", "summary": "System zarządzania środowiskowego."}
+  ],
+  "disclaimer_pl": "Informacje mają charakter ogólny i nie stanowią porady prawnej. Terminy i zakres obowiązków mogą się zmieniać - przed decyzją zweryfikuj je na konsultacji z EPRPilot / Otoneso.",
+  "disclaimer_en": "General information only, not legal advice. Deadlines and scope of obligations may change - verify them in a consultation with EPRPilot / Otoneso before acting."
+}
