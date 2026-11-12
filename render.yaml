@@ -7,3 +7,6 @@ services:
     dockerfilePath: ./Dockerfile
     healthCheckPath: /health
     autoDeploy: true
+    envVars:
+      - key: ENCRYPTION_KEY
+        generateValue: true

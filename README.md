@@ -48,10 +48,26 @@ Adres serwera MCP: `https://<domena>/mcp`
 Claude (web/desktop) → Ustawienia → Konektory → Dodaj własny konektor → wklej `https://<domena>/mcp`.
 Potem np.: „Sprzedaję kosmetyki pod własną marką z Polski do Niemiec, Francji i Czech przez Amazon. Jakie mam obowiązki EPR i PPWR?”
 
-## Etap 2 — dane klientów (po otrzymaniu dokumentacji API)
+## Etap 2a — konto klienta (`/account/mcp`, OAuth)
 
-Planowane narzędzia (wymagają logowania OAuth do konta EPRPilot):
-`list_products`, `classify_products`, `calculate_fees`, `get_deadlines`, `generate_report`, `list_documents`, `create_ppwr_declaration`, `request_registration`.
+Drugi endpoint, chroniony OAuth 2.1 (rejestracja dynamiczna, PKCE). Klient przy podłączaniu konektora wkleja swój token API EPRPilot;
+serwer szyfruje go (AES-256-GCM) w wydawanych tokenach — **bez bazy danych**. Unieważnienie tokenu w EPRPilot odcina dostęp.
+
+Narzędzia (tylko odczyt): `account_whoami`, `get_dictionary`, `list_products` (z wyszukiwaniem po SKU/EAN/nazwie), `get_product`,
+`find_unclassified_products`, `list_orders`, `get_order`, `list_reports`, `get_report`, `download_report`.
+
+Zmienne środowiskowe:
+
+| Zmienna | Wymagana | Opis |
+|---|---|---|
+| `ENCRYPTION_KEY` | tak (dla `/account/mcp`) | 32 bajty base64: `openssl rand -base64 32`. Bez niej działa tylko publiczny `/mcp`. Zmiana klucza wylogowuje wszystkich. |
+| `PUBLIC_BASE_URL` | nie | Np. `https://mcp-r0um.onrender.com`; domyślnie wyliczany z nagłówków. |
+| `EPRPILOT_API_BASE` | nie | Domyślnie `https://app.eprpilot.com/api/v1`. |
+| `EPRPILOT_RATE_LIMIT` | nie | Zapytań/min na konto, domyślnie 50 (API pozwala na 60). |
+
+Podłączenie: Claude → Ustawienia → Konektory → Dodaj własny konektor → `https://<domena>/account/mcp` → zaloguj się tokenem API.
+
+Projekt kolejnych etapów (zapis produktów, import zamówień, raporty): dokument „EPRPilot MCP – projekt fazy API”.
 
 ## Zastrzeżenie
 
